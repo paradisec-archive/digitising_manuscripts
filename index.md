@@ -8,10 +8,10 @@ This site will outline PARADISEC's approach to digitising text materials (papers
 
 ## Equipment used in this guide
 
-> Of course you may make substitutions for the equipment and software; this is guide outlines PARADISIC-specific forkflows
-
-Cameras: Canon Powershot G12 and Canon EOS Rebel T5i 700D
+Cameras: [Canon Powershot G12](https://id.canon/en/support/6200087900/1?model=4342B) and [Canon EOS Rebel T5i 700D](https://www.canon.ie/for_home/product_finder/cameras/digital_slr/eos_700d/specification.html)
 Stand: [Kaiser Reprokid](http://www.kaiser-fototechnik.de/en/produkte/2_1_produktanzeige.asp?nr=5360) photo stand, [Velbon Sherpa 200R Pro Tripod](https://velbon.net/product/sherpa/sherpa-200r.html) with reversable centre post and [shelf clamp](https://velbon.net/product/accessories/clampk.html)
-Software: [EOS Utility](https://www.canon.com.au/services-and-apps/eos-webcam-utility) *(for remote capture with compatible Canon cameras)*, [Adobe Bridge](https://www.adobe.com/au/products/bridge.html) for image post-production (bulk colour/lighting editing of images)
+Software: [EOS Utility](https://www.canon.com.au/cameras/eos-700d/support) *(for remote capture with compatible Canon cameras)*, [Adobe Bridge](https://www.adobe.com/au/products/bridge.html) for image post-production *(bulk colour/lighting editing of images)*
+
+> Of course you may make substitutions for the equipment and software; this is guide outlines PARADISIC-specific forkflows
 
 ## High resolution photography
