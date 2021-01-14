@@ -7,9 +7,10 @@
 This site will outline PARADISEC's approach to digitising text materials (papers, books). The majority of our fieldnotes, texts, and notebook digitisation is done with high resolution photography, not scanning. 
 
 ## Equipment used in this guide
+
 |  Equipment |  Description and link |
-| :----- | :----- |
-| Cameras | [Canon Powershot G12](https://id.canon/en/support/6200087900/1?model=4342B) *(compact digital camera)* and [Canon EOS Rebel T5i 700D](https://www.canon.ie/for_home/product_finder/cameras/digital_slr/eos_700d/specification.html) *(DSLR)*|
+|     :----- |     :-----            |
+| Cameras    | [Canon Powershot G12](https://id.canon/en/support/6200087900/1?model=4342B) *(compact digital camera)* and [Canon EOS Rebel T5i 700D](https://www.canon.ie/for_home/product_finder/cameras/digital_slr/eos_700d/specification.html) *(DSLR)*|
 | Photo stand | [Kaiser Reprokid](http://www.kaiser-fototechnik.de/en/produkte/2_1_produktanzeige.asp?nr=5360) | 
 | Tripod with Reversable centre post |  [Velbon Sherpa 200R Pro Tripod](https://velbon.net/product/sherpa/sherpa-200r.html) |
 | Shelf clamp | [Velbon Clamp Kit II](https://velbon.net/product/accessories/clampk.html) |
