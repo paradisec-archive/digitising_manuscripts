@@ -4,7 +4,13 @@
   <img width="200" src="images/tripod.GIF">
 </p>
 
-This site will outline PARADISEC's approach to digitising text materials (papers, books). The majority of our fieldnotes, texts, and notebook digitisation is done with high resolution photography, not scanning. 
+This page outlines PARADISEC's approach to digitising text materials (papers, books). The majority of our fieldnotes, texts, and notebook digitisation is done with high resolution photography, not scanning. Here are some reasons why we choose to use photography rather than scanning:
+
+* the process is much faster
+* items that are very fragile or have different shapes are easily accomodated with less handling
+* this method will capture very high quality images with correct colour representation
+* the equipment is portable and can be easily set up in most environments, including remote field locations
+* depending on your equipment choices, this can be the least expensive option, yet will still retain high quality output
 
 ## Equipment used in this guide
 
