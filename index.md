@@ -4,7 +4,7 @@
   <img width="200" src="images/tripod.GIF">
 </p>
 
-This site will outline PARADISEC's approach to digitising text materials (papers, books). The majority of our fieldnotes, texts, and notebook digitising are done with high resolution photographs, not scanning.
+This site will outline PARADISEC's approach to digitising text materials (papers, books). The majority of our fieldnotes, texts, and notebook digitisation is done with high resolution photography, not scanning. 
 
 ## Equipment used in this guide
 |  Equipment |  Description and link |
@@ -20,3 +20,6 @@ This site will outline PARADISEC's approach to digitising text materials (papers
 
 
 ## High resolution photography
+
+## Fruther resources
+Butterworth, J., Pearson, A., Sutherland, P. & Farquhar, A. (2018) [Remote Capture: Digitising Documentary Heritage in Challenging Locations](https://www.openbookpublishers.com/product/747) Open Book Publishers, Open Field Guides Series, vol. I doi:10.11647/OBP.0138
