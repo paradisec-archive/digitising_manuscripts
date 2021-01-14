@@ -8,7 +8,7 @@ This site will outline PARADISEC's approach to digitising text materials (papers
 
 ## Equipment used in this guide
 
-| Equipment | Description and link for more details |
+| Equipment | Description and links to more details |
 | :----- | :----- |
 | Cameras | [Canon Powershot G12](https://id.canon/en/support/6200087900/1?model=4342B) *(compact digital camera)* and [Canon EOS Rebel T5i 700D](https://www.canon.ie/for_home/product_finder/cameras/digital_slr/eos_700d/specification.html) *(DSLR)* |
 | Photo stand | [Kaiser Reprokid](http://www.kaiser-fototechnik.de/en/produkte/2_1_produktanzeige.asp?nr=5360) | 
