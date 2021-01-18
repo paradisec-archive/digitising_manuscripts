@@ -4,12 +4,12 @@
   <img width="200" src="images/tripod.GIF">
 </p>
 
-This page outlines PARADISEC's approach to digitising text materials (papers, books). The majority of our fieldnotes, texts, and notebook digitisation is done with high resolution photography, not scanning. Here are some reasons why we choose to use photography rather than scanning:
+This page outlines PARADISEC's approach to digitising text materials. The majority of our fieldnotes, papers, and notebook digitisation is done with high resolution photography, not scanning. Here are some reasons why we choose to use photography rather than scanning:
 
 * the process is much faster
 * items that are very fragile or have different shapes are easily accomodated with less handling
 * this method will capture very high quality images with correct colour representation
-* the equipment is portable and can be easily set up in most environments, including remote field locations
+* the equipment is portable and can easily be set up in most environments, including remote field locations with tricky power options
 * depending on your equipment choices, this can be the least expensive option, yet will still retain high quality output
 
 ## Equipment used in this guide
@@ -27,6 +27,9 @@ This page outlines PARADISEC's approach to digitising text materials (papers, bo
 
 
 ## Setting up the equipment
+
+### Camera
+> **Note:** If you are going to be taking photos in a remote area with unpredictable access to a power source, you may need to pair a [portable solar pannel and power bank](https://powertraveller.com/collections/power-packs) with a [universal battery charger](https://www.digitalcameraworld.com/au/buying-guides/the-best-universal-charger-for-your-camera-batteries) to charge your camera's battery
 
 ### Using a tripod with reversable centre post
 
