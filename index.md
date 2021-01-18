@@ -26,7 +26,37 @@ This page outlines PARADISEC's approach to digitising text materials (papers, bo
 > **NOTE:** The above information and the workflow included on this page are provided as suggestions based on PARADISEC-specific workflows; feel free to choose your own hardware and software. 
 
 
-## High resolution photography
+## Setting up the equipment
+
+
+### Using a tripod with reversable centre post
+#### Equipment
+
+#### Lighting
+
+### Using a tripod's shelf clamp
+
+#### Equipment
+
+#### Lighting
+
+### Using a photo stand
+
+#### Equipment
+
+#### Lighting
+
+## Remote capture (tethering your camera to a computer)
+
+## Workflow for remote capture
+
+## Workflow for non-tethered camera
+
+## Post-production processing of images
+
+
+
+
 
 ## Additional resources
 Butterworth, J., Pearson, A., Sutherland, P. & Farquhar, A. (2018) [Remote Capture: Digitising Documentary Heritage in Challenging Locations](https://www.openbookpublishers.com/product/747) Open Book Publishers, Open Field Guides Series, vol. I doi:10.11647/OBP.0138
