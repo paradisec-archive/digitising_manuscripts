@@ -28,8 +28,8 @@ This page outlines PARADISEC's approach to digitising text materials (papers, bo
 
 ## Setting up the equipment
 
-
 ### Using a tripod with reversable centre post
+
 #### Equipment
 
 #### Lighting
@@ -46,7 +46,11 @@ This page outlines PARADISEC's approach to digitising text materials (papers, bo
 
 #### Lighting
 
-## Remote capture (tethering your camera to a computer)
+## Setting up the software
+
+### Remote capture: EOS Utility (if using compatible Canon camera)
+
+### Image preview and processing: Adobe Bridge
 
 ## Workflow for remote capture
 
