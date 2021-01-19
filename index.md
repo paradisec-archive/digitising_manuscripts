@@ -73,7 +73,7 @@ The Reprokid model is a compact camera stand that can accommodate small, lightwe
 This is a great set-up beacuse it is the least expensive and the most versatile, especially if you need to photograph items in a remote location. The tricky part is getting the lighting right. Your light source (natural or artificial) could be blocked by the tripod legs and cast a shadow on your image. If your light source is in a fixed position, try moving the tripod around to minimise shadows. You may also try to find lights that you can clip on to the legs of your tripod. Just be mindful that too much direct, unfiltered lighting may wash out your image. I try to find a light coloured wall I can place the tripod next to and then shine the lights onto the wall. The reflected light is usually enough to provide evenly disrtributed indirecrt lighting.
 
 <p align="center">
-  <img width="500" src="images/imgcap-remote-tripod.jpg">
+  <img width="400" src="images/imgcap-remote-tripod.jpg">
 </p>
 
 ### Using a tripod's shelf clamp
