@@ -36,11 +36,12 @@ We purchased this Canon camera in 2010 and it is still fully functional in 2021.
 
 #### Canon Rebel Ti 700D
 This DSLR *does* allow remote capture tethering. This opens up the possibility of attaching the camera to a computer to view, focus, and capture images and store them directly on your computer, with a predertrmined file-naming pattern. But you can also use the same workflow as the non-tethering compact digital camera if you do not have a computer handy at the time of digitising. This model also features an articulated LCD monitor for comfortable image viewing. Another bonus with this camera is that you can do quick zoom adjustments by manually altering the lens, which you cannot do with the PowerShot.
-> **Note:** If you are going to be taking photos in a remote area with unpredictable access to a power source, you may need to pair a [portable solar pannel and power bank](https://powertraveller.com/collections/power-packs) with a [universal battery charger](https://www.digitalcameraworld.com/au/buying-guides/the-best-universal-charger-for-your-camera-batteries) to charge your camera's battery
 
 <p align="center">
   <img width="500" src="images/img-cap-EOS700D.JPG">
 </p>
+
+> **Note:** If you are going to be taking photos in a remote area with unpredictable access to a power source, you may need to pair a [portable solar pannel and power bank](https://powertraveller.com/collections/power-packs) with a [universal battery charger](https://www.digitalcameraworld.com/au/buying-guides/the-best-universal-charger-for-your-camera-batteries) to charge your camera's battery
 
 ### Tripods and photo stands
 #### Velbon Sherpa 200R Pro
