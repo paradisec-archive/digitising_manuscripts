@@ -48,7 +48,8 @@ This DSLR *does* allow remote capture tethering. This opens up the possibility o
 We purchased this tripod about ten years ago, so you will likely not find the exact model. But the important features on this tripod are the following:
 * reversable centre post (necessary for this workflow)
 * relatively compact and lightweight
-* spirit level (not necessary, but nice to have)<br>
+* spirit level (not necessary, but nice to have)
+
 This tripod came with the shelf clamp accessory, but you can purchase this separately. If you do, make sure there is a tripod post that come with the clamp if you do not already have a tripod with a removable centre post.
 
 #### Kaiser Reprokid Photo Stand
