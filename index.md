@@ -18,7 +18,7 @@ This page outlines PARADISEC's approach to digitising text materials. The majori
 | :----- | :----- |
 | Cameras | [Canon Powershot G12](https://id.canon/en/support/6200087900/1?model=4342B) *(compact digital camera)* and [Canon EOS 700D](https://www.canon.ie/for_home/product_finder/cameras/digital_slr/eos_700d/specification.html) *(DSLR)* |
 | Photo stand | [Kaiser Reprokid](http://www.kaiser-fototechnik.de/en/produkte/2_1_produktanzeige.asp?nr=5360) | 
-| Tripod with Reversable centre post | [Velbon Sherpa 200R Pro Tripod](https://velbon.net/product/sherpa/sherpa-200r.html) |
+| Tripod with Reversable centre post | [Velbon Sherpa 803R Pro Tripod](https://www.ana-photo.com/Product/Velbon/VELBON-SHERPA-800R803R.html) |
 | Shelf clamp | [Velbon Clamp Kit II](https://velbon.net/product/accessories/clampk.html) |
 | Software for remote capture | [EOS Utility](https://www.canon.com.au/cameras/eos-700d/support) *(for compatible Canon cameras)* |
 | Software for post-production editing | [Adobe Bridge](https://www.adobe.com/au/products/bridge.html) |
@@ -44,16 +44,28 @@ This DSLR *does* allow remote capture tethering. This opens up the possibility o
 > **Note:** If you are going to be taking photos in a remote area with unpredictable access to a power source, you may need to pair a [portable solar pannel and power bank](https://powertraveller.com/collections/power-packs) with a [universal battery charger](https://www.digitalcameraworld.com/au/buying-guides/the-best-universal-charger-for-your-camera-batteries) to charge your camera's battery
 
 ### Tripods and photo stands
-#### Velbon Sherpa 200R Pro
+#### Velbon Sherpa 803R
 We purchased this tripod about ten years ago, so you will likely not find the exact model. But the important features on this tripod are the following:
 * reversable centre post (necessary for this workflow)
 * relatively compact and lightweight
 * spirit level (not necessary, but nice to have)
 
-This tripod came with the shelf clamp accessory, but you can purchase this separately. If you do, make sure there is a tripod post that come with the clamp if you do not already have a tripod with a removable centre post.
+<p align="center">
+  <img width="200" src="">
+</p>
+
+This tripod came with the shelf clamp accessory, but you can purchase this separately. If you do, make sure there is a tripod post that comes with the clamp if you do not already have a tripod with a removable centre post. The link in the table above is a similar model to the shelf clamp that came with our Velbon Sherpa 803R.
+
+<p align="center">
+  <img width="500" src="">
+</p>
 
 #### Kaiser Reprokid Photo Stand
+The Reprokid model is a compact camera stand that can accommodate small, lightweight cameras. It works really well with either of the above Canon cameras. This photo stand came with the lighting set, so we did not need to figure out where to attach any lighting. The vertical post is ruled so you can easily retrieve the distance of the lens to the target, or just know make note of the distance for quick set up for the next time you shoot. The base is a moderately hard plastic grey surface so I use black matte card stock under my items. You can add a ruler or a [colour separation guide and grey scales patch](https://www.kodak.com/en/motion/page/color-separation-guides-and-gray-scales).
 
+<p align="center">
+  <img width="500" src="">
+</p>
 
 ## Setting up the equipment
 
