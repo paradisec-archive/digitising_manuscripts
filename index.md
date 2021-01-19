@@ -61,7 +61,7 @@ This tripod came with the shelf clamp accessory, but you can purchase this separ
 </p>
 
 #### Kaiser Reprokid Photo Stand
-The Reprokid model is a compact camera stand that can accommodate small, lightweight cameras. It works really well with either of the above Canon cameras. This photo stand came with the lighting set, so we did not need to figure out where to attach any lighting. The vertical post is ruled so you can easily retrieve the distance of the lens to the target, or just know make note of the distance for quick set up for the next time you shoot. The base is a moderately hard plastic grey surface so I use black matte card stock under my items. You can add a ruler or a [colour separation guide and grey scales patch](https://www.kodak.com/en/motion/page/color-separation-guides-and-gray-scales).
+The Reprokid model is a compact camera stand that can accommodate small, lightweight cameras. It works really well with either of the above Canon cameras. This photo stand came with the lighting set, so one does not need to figure out where to attach any lighting. The vertical post is ruled so you can retrieve the distance of the lens to the target, or just know make note of the distance for quick set up for the next time you shoot. The base is a hard plastic grey surface so I use black matte card stock under my items. You can place a ruler or a [colour separation guide and grey scales patch](https://www.kodak.com/en/motion/page/color-separation-guides-and-gray-scales) on the base if you need this level of colour precision in your image capture.
 
 <p align="center">
   <img width="500" src="images/img-cap-photo-stand.JPG">
@@ -69,24 +69,16 @@ The Reprokid model is a compact camera stand that can accommodate small, lightwe
 
 ## Setting up the equipment
 
-
 ### Using a tripod with reversable centre post
+This is a great set-up beacuse it is the least expensive and the most versatile, especially if you need to photograph items in a remote location. The tricky part is getting the lighting right. Your light source (natural or artificial) could be blocked by the tripod legs and cast a shadow on your image. If your light source is in a fixed position, try moving the tripod around to minimise shadows. You may also try to find lights that you can clip on to the legs of your tripod. Just be mindful that too much direct, unfiltered lighting may wash out your image. I try to find a light coloured wall I can place the tripod next to and then shine the lights onto the wall. The reflected light is usually enough to provide evenly disrtributed indirecrt lighting.
 
-#### Equipment
-
-#### Lighting
+<p align="center">
+  <img width="500" src="images/imgcap-remote-tripod.jpg">
+</p>
 
 ### Using a tripod's shelf clamp
 
-#### Equipment
-
-#### Lighting
-
 ### Using a photo stand
-
-#### Equipment
-
-#### Lighting
 
 ## Setting up the software
 
