@@ -25,9 +25,6 @@ This page outlines PARADISEC's approach to digitising text materials. The majori
 
 > **NOTE:** The above information and the workflow included on this page are provided as suggestions based on PARADISEC-specific workflows; feel free to choose your own hardware and software. 
 
-
-## Setting up the equipment
-
 ### Cameras
 #### Canon PowerShot G12
 We purchased this Canon camera in 2010 and it is still fully functional in 2021. It is a compact digital camera, not a DSLR. This camera allows you to capture RAW images without JPEG compression, as well as JPEGs, or both simultaneously. This model does not allow for tethering without some [hacking](https://chdk.fandom.com/wiki/CHDK_1.4.0_User_Manual) of the firmware. I have not done this hack; I have developed a very functional workflow for image capture without remote capture. Another nice feature of this camera is the articulated LCD screen. You can rotate it so that your image is visible from a seated position when the camera lens is pointed downwards.
@@ -35,6 +32,20 @@ We purchased this Canon camera in 2010 and it is still fully functional in 2021.
 #### Canon Rebel Ti 700D
 This DSLR *does* allow remote capture tethering. This opens up the possibility of attaching the camera to a computer to view, focus, and capture images and store them directly on your computer, with a predertrmined file-naming pattern. But you can also use the same workflow as the non-tethering compact digital camera if you do not have a computer handy at the time of digitising. This model also features an articulated LCD monitor for comfortable image viewing. Another bonus with this camera is that you can do quick zoom adjustments by manually altering the lens, which you cannot do with the PowerShot.
 > **Note:** If you are going to be taking photos in a remote area with unpredictable access to a power source, you may need to pair a [portable solar pannel and power bank](https://powertraveller.com/collections/power-packs) with a [universal battery charger](https://www.digitalcameraworld.com/au/buying-guides/the-best-universal-charger-for-your-camera-batteries) to charge your camera's battery
+
+### Tripods and photo stands
+#### Velbon Sherpa 200R Pro
+We purchased this tripod about ten years ago, so you will likely not find the exact model. But the important features on this tripod are the following:
+* reversable centre post (necessary for this workflow)
+* relatively compact and lightweight
+* spirit level (not necessary, but nice to have)
+This tripod came with the shelf clamp accessory, but you can purchase this separately. If you do, make sure there is a tripod post that come with the clamp if you do not already have a tripod with a removable centre post.
+
+#### Kaiser Reprokid Photo Stand
+
+
+## Setting up the equipment
+
 
 ### Using a tripod with reversable centre post
 
