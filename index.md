@@ -16,7 +16,7 @@ This page outlines PARADISEC's approach to digitising text materials. The majori
 
 | Equipment | Description and links to more details |
 | :----- | :----- |
-| Cameras | [Canon Powershot G12](https://id.canon/en/support/6200087900/1?model=4342B) *(compact digital camera)* and [Canon EOS Rebel T5i 700D](https://www.canon.ie/for_home/product_finder/cameras/digital_slr/eos_700d/specification.html) *(DSLR)* |
+| Cameras | [Canon Powershot G12](https://id.canon/en/support/6200087900/1?model=4342B) *(compact digital camera)* and [Canon EOS 700D](https://www.canon.ie/for_home/product_finder/cameras/digital_slr/eos_700d/specification.html) *(DSLR)* |
 | Photo stand | [Kaiser Reprokid](http://www.kaiser-fototechnik.de/en/produkte/2_1_produktanzeige.asp?nr=5360) | 
 | Tripod with Reversable centre post | [Velbon Sherpa 200R Pro Tripod](https://velbon.net/product/sherpa/sherpa-200r.html) |
 | Shelf clamp | [Velbon Clamp Kit II](https://velbon.net/product/accessories/clampk.html) |
@@ -34,7 +34,7 @@ We purchased this Canon camera in 2010 and it is still fully functional in 2021.
 </p>
 
 
-#### Canon Rebel Ti 700D
+#### Canon EOS 700D
 This DSLR *does* allow remote capture tethering. This opens up the possibility of attaching the camera to a computer to view, focus, and capture images and store them directly on your computer, with a predertrmined file-naming pattern. But you can also use the same workflow as the non-tethering compact digital camera if you do not have a computer handy at the time of digitising. This model also features an articulated LCD monitor for comfortable image viewing. Another bonus with this camera is that you can do quick zoom adjustments by manually altering the lens, which you cannot do with the PowerShot.
 
 <p align="center">
