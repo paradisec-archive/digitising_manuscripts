@@ -51,20 +51,20 @@ We purchased this tripod about ten years ago, so you will likely not find the ex
 * spirit level (not necessary, but nice to have)
 
 <p align="center">
-  <img width="300" src="images/img-cap-tripod.JPG">
+  <img width="500" src="images/img-cap-tripod.JPG">
 </p>
 
 This tripod came with the shelf clamp accessory, but you can purchase this separately. If you do, make sure there is a tripod post that comes with the clamp if you do not already have a tripod with a removable centre post. The link in the table above is a similar model to the shelf clamp that came with our Velbon Sherpa 803R.
 
 <p align="center">
-  <img width="300" src="images/img-cap-shelfclamp.JPG">
+  <img width="500" src="images/img-cap-shelfclamp.JPG">
 </p>
 
 #### Kaiser Reprokid Photo Stand
 The Reprokid model is a compact camera stand that can accommodate small, lightweight cameras. It works really well with either of the above Canon cameras. This photo stand came with the lighting set, so we did not need to figure out where to attach any lighting. The vertical post is ruled so you can easily retrieve the distance of the lens to the target, or just know make note of the distance for quick set up for the next time you shoot. The base is a moderately hard plastic grey surface so I use black matte card stock under my items. You can add a ruler or a [colour separation guide and grey scales patch](https://www.kodak.com/en/motion/page/color-separation-guides-and-gray-scales).
 
 <p align="center">
-  <img width="300" src="images/img-cap-photo-stand.JPG">
+  <img width="500" src="images/img-cap-photo-stand.JPG">
 </p>
 
 ## Setting up the equipment
