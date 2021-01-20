@@ -88,29 +88,33 @@ Below are two configurations with the shelf clamp and an actual shelf (no need f
 </p>
 
 ### Using a photo stand
-Photo stands have many benefits for image capture. This particular model has the lighting attached, so one doesn't need to figure out where to attach lighting. The light fixtures on this stand can move around, so if the light is too direct and overpowering, they can turn so that they are pointing away or toward the back wall. Be mindful of the cables from the lights; if you don't tie them up and out of the way, they can show up in an image, or cast a shadow on your subject.
+Photo stands have many benefits for image capture. This particular model has the lighting attached, as noted above you don't have to worry about where to clamp the lights. The light fixtures on this stand can move around, so if the light is too direct and overpowering, they can turn so that they are pointing away or toward the back wall. Be mindful of the cables from the lights; if you don't tie them up and out of the way, they can show up in an image, or cast a shadow on your subject.
 
-Having the camera attached to a stable, ruled post it great for keeping your set up consistant from day to day. If you need to shift things around in your space, the entire set-up can be moved as is. Having a nice solid base on which to put your notebooks or documents is also a fine feature. The downside to using a photo stand is the cost. Pricing for these can be a bit expensive. The Reprokid is one of Kaiser's less expensive models and it works very well for us.
+Having the camera attached to a stable, ruled post is great for keeping your set-up consistant from day to day. If you need to shift things around in your space, the entire set-up can be moved as is. Having a solid base on which to put your notebooks or documents is also a fine feature. The base on this model is a bit small. If you need to build up the base to create an expanded, level for larger notebooks to fit, perhaps place some books you may have nearby around the photostand's base to create an enlarged, even platform. Or get a piece of plywood and clamp it to the photo stand base.
+
+The downside to using a photo stand is the cost. Pricing for these can be a bit expensive. The Reprokid is one of Kaiser's less expensive models and it works very well for our purposes.
 
 <p align="center">
   <img width="500" src="images/imgcap-photostand-remote3.jpg">
 </p>
 
-## Setting up the software
+## Software
 
 ### Remote capture: EOS Utility (if using compatible Canon camera)
+If you are using a Canon camera that is compatible with the EOS Utility software, you can choose to remotely capture images to a tethered computer. This software works for both [PCs]() and [Macs](). It can speed up your task of taking photos if you set up a good workflow. 
 
 ### Image preview and processing: Adobe Bridge
+As you capture the images, it is important to take a look at your images before you get too far into your task. That said, at the end of the day, if you have collected 1,000 photos and you realise that you would like to crop them, or that the lighting was a bit too warm and you need to cool the colours a bit, you can use Bridge to do this rather quickly.
 
-## Workflow for remote capture
+## Workflow for remote capture (Canon EOS 700D)
 
-## Workflow for non-tethered camera
+## Workflow for non-tethered camera (Canon PowerShot G12)
 
 ## Post-production processing of images
 
 
 
-
+---
 
 ## Additional resources
 Butterworth, J., Pearson, A., Sutherland, P. & Farquhar, A. (2018) [Remote Capture: Digitising Documentary Heritage in Challenging Locations](https://www.openbookpublishers.com/product/747) Open Book Publishers, Open Field Guides Series, vol. I doi:10.11647/OBP.0138
