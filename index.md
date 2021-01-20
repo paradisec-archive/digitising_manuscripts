@@ -88,9 +88,12 @@ Below are two configurations with the shelf clamp and an actual shelf (no need f
 </p>
 
 ### Using a photo stand
+Photo stands have many benefits for image capture. This particular model has the lighting attached, so one doesn't need to figure out where to attach lighting. The light fixtures on this stand can move around, so if the light is too direct and overpowering, they can turn so that they are pointing away or toward the back wall. Be mindful of the cables from the lights; if you don't tie them up and out of the way, they can show up in an image, or cast a shadow on your subject.
+
+Having the camera attached to a stable, ruled post it great for keeping your set up consistant from day to day. If you need to shift things around in your space, the entire set-up can be moved as is. Having a nice solid base on which to put your notebooks or documents is also a fine feature. The downside to using a photo stand is the cost. Pricing for these can be a bit expensive. The Reprokid is one of Kaiser's less expensive models and it works very well for us.
 
 <p align="center">
-  <img width="500" src="images/.jpg">
+  <img width="500" src="images/imgcap-photostand-remote3.jpg">
 </p>
 
 ## Setting up the software
