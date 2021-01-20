@@ -101,7 +101,7 @@ The downside to using a photo stand is the cost. Pricing for these can be a bit 
 ## Software
 
 ### Remote capture: EOS Utility (if using compatible Canon camera)
-If you are using a Canon camera that is compatible with the EOS Utility software, you can choose to remotely capture images to a tethered computer. This software works for both [PCs]() and [Macs](). It can speed up your task of taking photos if you set up a good workflow. 
+If you are using a Canon camera that is compatible with the EOS Utility software, you can choose to remotely capture images to a tethered computer. This software works for both [PCs](https://www.canon.com.au/support/sims-content?pid=74c2eb672e2946a7b940f86e2c9e2461&cid=3E70ECD154334FBD866C212BDC988F56&ctype=ap) and [Macs](https://www.canon.com.au/support/sims-content?pid=0a6e29c7259d4fa8938b3bb591ebb372&cid=A5B1C6A24B9D464DBCFE41EEE51ECAD3&ctype=ap). It can speed up your task of taking photos if you set up a good workflow. 
 
 ### Image preview and processing: Adobe Bridge
 As you capture the images, it is important to take a look at your images before you get too far into your task. That said, at the end of the day, if you have collected 1,000 photos and you realise that you would like to crop them, or that the lighting was a bit too warm and you need to cool the colours a bit, you can use Bridge to do this rather quickly.
