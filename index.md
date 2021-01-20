@@ -79,7 +79,7 @@ This is a great set-up beacuse it is the least expensive and the most versatile,
 ### Using a tripod's shelf clamp
 
 <p align="center">
-  <img width="500" src="images/imgcap-clamp-Cameras.jpg">
+  <img width="500" src="images/imgcap-clamp-both_cameras.jpg">
 </p>
 
 ### Using a photo stand
