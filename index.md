@@ -77,6 +77,11 @@ This is a great set-up beacuse it is the least expensive and the most versatile,
 </p>
 
 ### Using a tripod's shelf clamp
+Using just the shelf clamp and the tripod's centre post is by far my favourite combination, especially if there is any travel involved. The only drawback is that this requires a shelf that you can clamp to. If you are in a very remote location, you could construct something with timber, bamboo, or a smooth branch. Just make sure it is strong enough to hold your camera and allows you to create consistant images. 
+
+Below are two configurations with the shelf clamp and an actual shelf. The image on the right is with the Canon EOS 700D tethered to a laptop for remote capture. The image on the right is the Canon PowerShot; images are being captured to the camera's SD card. 
+
+>**Note:** The lights are directed to the wall, not on the tape or notebook. This creates enough reflected light for the photos. When you review your images after your shoot and find that you would like them to be a bit lighter after all, you can batch edit the lighting using Adobe Bridge (discussed below). 
 
 <p align="center">
   <img width="500" src="images/imgcap-clamp-both_cameras.jpg">
