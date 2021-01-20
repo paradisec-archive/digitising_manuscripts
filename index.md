@@ -27,7 +27,7 @@ This page outlines PARADISEC's approach to digitising text materials. The majori
 
 ### Cameras
 #### Canon PowerShot G12
-We purchased this Canon camera in 2010 and it is still fully functional in 2021. It is a compact digital camera, not a DSLR. This camera allows you to capture RAW images without JPEG compression, as well as JPEGs, or both simultaneously. This model does not allow for tethering without some [hacking](https://chdk.fandom.com/wiki/CHDK_1.4.0_User_Manual) of the firmware. I have not done this hack; I have developed a very functional workflow for image capture without remote capture. Another nice feature of this camera is the articulated LCD screen. You can rotate it so that your image is visible from a seated position when the camera lens is pointed downwards.
+We purchased this Canon camera in 2010 and it is still fully functional in 2021. It is a compact digital camera, not a DSLR. The PowerShot allows you to capture RAW images without JPEG compression, as well as JPEGs, or both simultaneously. This model does not allow for tethering without some [hacking](https://chdk.fandom.com/wiki/CHDK_1.4.0_User_Manual) of the firmware. I have not done this hack; I have developed a very functional workflow for image capture without remote capture. Another nice feature of this camera is the articulated LCD screen. You can rotate it so that your image is visible from a seated position when the camera lens is pointed downwards on a desk or table in front of you.
 
 <p align="center">
   <img width="500" src="images/img-cap-PowerShotG12.JPG">
@@ -35,7 +35,7 @@ We purchased this Canon camera in 2010 and it is still fully functional in 2021.
 
 
 #### Canon EOS 700D
-This DSLR *does* allow remote capture tethering. This opens up the possibility of attaching the camera to a computer to view, focus, and capture images and store them directly on your computer, with a predertrmined file-naming pattern. But you can also use the same workflow as the non-tethering compact digital camera if you do not have a computer handy at the time of digitising. This model also features an articulated LCD monitor for comfortable image viewing. Another bonus with this camera is that you can do quick zoom adjustments by manually altering the lens, which you cannot do with the PowerShot.
+This DSLR *does* allow remote capture tethering. This opens up the possibility of attaching the camera to a computer to view, focus, and capture images and store them directly on your computer, with a predertermined file-naming pattern. But you can also use the same workflow as the non-tethering compact digital camera if you do not have a computer handy at the time of digitising. This model also features an articulated LCD monitor for comfortable image viewing. Another bonus with this camera is that you can do quick zoom adjustments by manually adjusting the lens, which you cannot do with the PowerShot.
 
 <p align="center">
   <img width="500" src="images/img-cap-EOS700D.JPG">
@@ -54,14 +54,14 @@ We purchased this tripod about ten years ago, so you will likely not find the ex
   <img width="500" src="images/img-cap-tripod.JPG">
 </p>
 
-This tripod came with the shelf clamp accessory, but you can purchase this separately. If you do, make sure there is a tripod post that comes with the clamp if you do not already have a tripod with a removable centre post. The link in the table above is a similar model to the shelf clamp that came with our Velbon Sherpa 803R.
+This tripod came with the shelf clamp accessory, but you can purchase this separately. If you do, make sure there is a tripod post that comes with the clamp if you do not already have a tripod with a removable centre post. The link in the table above directs you to a similar model to the shelf clamp that came with our Velbon Sherpa 803R.
 
 <p align="center">
   <img width="500" src="images/img-cap-shelfclamp.JPG">
 </p>
 
 #### Kaiser Reprokid Photo Stand
-The Reprokid model is a compact camera stand that can accommodate small, lightweight cameras. It works really well with either of the above Canon cameras. This photo stand came with the lighting set, so one does not need to figure out where to attach any lighting. The vertical post is ruled so you can retrieve the distance of the lens to the target, or just know make note of the distance for quick set up for the next time you shoot. The base is a hard plastic grey surface so I use black matte card stock under my items. You can place a ruler or a [colour separation guide and grey scales patch](https://www.kodak.com/en/motion/page/color-separation-guides-and-gray-scales) on the base if you need this level of colour precision in your image capture.
+The Reprokid model is a compact camera stand that can accommodate small, lightweight cameras. It works really well with either of the above Canon cameras. This photo stand came with the lighting set, so one does not need to figure out where to attach any lighting. The vertical post is ruled so you can retrieve the distance of the lens to the target, or just make note of the camera placement for quick set up the next time you shoot. The base is a hard plastic grey surface so I use black matte card stock under my items. You can place a ruler or a [colour separation guide and grey scales patch](https://www.kodak.com/en/motion/page/color-separation-guides-and-gray-scales) on the base if you need this level of size or colour precision in your image capture.
 
 <p align="center">
   <img width="500" src="images/img-cap-photo-stand.JPG">
@@ -70,7 +70,7 @@ The Reprokid model is a compact camera stand that can accommodate small, lightwe
 ## Setting up the equipment
 
 ### Using a tripod with reversable centre post
-This is a great set-up beacuse it is the least expensive and the most versatile, especially if you need to photograph items in a remote location. The tricky part is getting the lighting right. Your light source (natural or artificial) could be blocked by the tripod legs and cast a shadow on your image. If your light source is in a fixed position, try moving the tripod around to minimise shadows. You may also try to find lights that you can clip on to the legs of your tripod. Just be mindful that too much direct, unfiltered lighting may wash out your image. I try to find a light coloured wall I can place the tripod next to and then shine the lights onto the wall. The reflected light is usually enough to provide evenly disrtributed indirecrt lighting.
+This is a great set-up beacuse it is the least expensive and the most versatile, especially if you need to photograph items in a remote location. The tricky part is getting the lighting right. Your light source (natural or artificial) could be blocked by the tripod legs and cast a shadow on your image. If your light source is in a fixed position, try moving the tripod around to minimise any shadows. You may also try to find lights that you can clip on to the legs of your tripod or onto nearby furniture. Just be mindful that too much direct, unfiltered lighting may wash out your image. I try to find a light coloured wall I can place the tripod next to and then shine the lights onto the wall. The reflected light is usually enough to provide evenly disrtributed indirecrt lighting.
 
 <p align="center">
   <img width="500" src="images/imgcap-remote-tripod.jpg">
@@ -78,7 +78,15 @@ This is a great set-up beacuse it is the least expensive and the most versatile,
 
 ### Using a tripod's shelf clamp
 
+<p align="center">
+  <img width="500" src="images/.jpg">
+</p>
+
 ### Using a photo stand
+
+<p align="center">
+  <img width="500" src="images/.jpg">
+</p>
 
 ## Setting up the software
 
