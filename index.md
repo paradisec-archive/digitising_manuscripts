@@ -107,11 +107,13 @@ If you are planning to use a Canon camera that is compatible with the EOS Utilit
 * [EOS Utility for PCs](https://www.canon.com.au/support/sims-content?pid=74c2eb672e2946a7b940f86e2c9e2461&cid=3E70ECD154334FBD866C212BDC988F56&ctype=ap) 
 * [EOS Utility for Macs](https://www.canon.com.au/support/sims-content?pid=0a6e29c7259d4fa8938b3bb591ebb372&cid=A5B1C6A24B9D464DBCFE41EEE51ECAD3&ctype=ap)
 
-> The link to the PC version is for EOS Utility 3, which is not compatible with my EOS 700D camera; however, with this installation both EOS Utility 2 and EOS Utility 3 are installed. The version that I am using is 2.14.20.0.
+> **Note:** The link to the PC version is for EOS Utility 3, which is not compatible with my EOS 700D camera; however, with this installation both EOS Utility 2 and EOS Utility 3 are installed. The version that I am using is 2.14.20.0.
 
 
 ### Image preview and processing: Adobe Bridge
-As you capture the images, it is important to take a look at your images before you get too far into your task. That said, at the end of the day, if you have collected 1,000 photos and you realise that you would like to crop them, or that the lighting was a bit too warm and you need to cool the colours a bit, you can use Bridge to do this rather quickly.
+As you capture the images, it is important to check the quality of your images before you get too far into your task. That said, at the end of the day, if you have collected hundreds of photos and you realise that they would be better cropped, or that the lighting was too warm and you would like to cool the colours, you can use Adobe Bridge to do this rather quickly in a batch process. At the time of me writing this guide, Adobe Bridge was available for free. You do not need to pay for it, but you do need to sign up with Adobe. Here is their [download page](https://www.adobe.com/au/products/bridge.html).
+
+> **Note:** You cannot edit raw images using the free version of Bridge; you can only do this if you already have photoshop. If you are using EOS Utility, Digital Photo Professional (DPP) is installed as well as the remote capture tool. You can view your .CR2 raw files and create JPEG or TIFF from them in DPP.
 
 ## Workflow for remote capture (Canon EOS 700D)
 
