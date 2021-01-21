@@ -81,11 +81,11 @@ Using just the shelf clamp and the tripod's centre post is by far my favourite c
 
 Below are two configurations with the shelf clamp and an actual shelf (no need for bamboo this time). The image on the left is with the Canon EOS 700D tethered to a laptop for remote capture. The image on the right is the Canon PowerShot; images are being captured to the camera's SD card. 
 
->**Note:** The lights are directed to the wall, not on the tape or notebook. This creates enough reflected light for the photos. When you review your images after your shoot and find that you would like them to be a bit lighter after all, you can batch edit the lighting using Adobe Bridge (discussed below). 
-
 <p align="center">
   <img width="500" src="images/imgcap-clamp-both_cameras.jpg">
 </p>
+
+>**Note:** The lights are directed to the wall, not on the tape or notebook. This creates enough reflected light for the photos. When you review your images after your shoot and find that you would like them to be a bit lighter after all, you can batch edit the lighting using Adobe Bridge (discussed below). 
 
 ### Using a photo stand
 Photo stands have many benefits for image capture. This particular model has the lighting attached, as noted above you don't have to worry about where to clamp the lights. The light fixtures on this stand can move around, so if the light is too direct and overpowering, they can turn so that they are pointing away or toward the back wall. Be mindful of the cables from the lights; if you don't tie them up and out of the way, they can show up in an image, or cast a shadow on your subject.
