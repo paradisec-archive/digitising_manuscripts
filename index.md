@@ -85,7 +85,7 @@ Below are two configurations with the shelf clamp and an actual shelf (no need f
   <img width="500" src="images/imgcap-clamp-both_cameras.jpg">
 </p>
 
->**Note:** The lights are directed to the wall, not on the tape or notebook. This creates enough reflected light for the photos. When you review your images after your shoot and find that you would like them to be a bit lighter after all, you can batch edit the lighting using Adobe Bridge (discussed below). 
+>**Note:** The lights can be directed to the wall, not on the tape or notebook. This creates enough reflected light for the photos. When you review your images after your shoot and find that you would like them to be a bit lighter, you can batch edit the lighting using Adobe Bridge (discussed below). 
 
 ### Using a photo stand
 Photo stands have many benefits for image capture. This particular model has the lighting attached, as noted above you don't have to worry about where to clamp the lights. The light fixtures on this stand can move around, so if the light is too direct and overpowering, they can turn so that they are pointing away or toward the back wall. Be mindful of the cables from the lights; if you don't tie them up and out of the way, they can show up in an image, or cast a shadow on your subject.
@@ -100,8 +100,8 @@ The downside to using a photo stand is the cost. Pricing for these can be a bit 
 
 ## Software
 
-### Remote capture: EOS Utility (if using compatible Canon camera)
-Remote capturing images directly to your computer can speed up your task of taking photos if you set up a good workflow. There are many tethering tools available. I have chosen EOS Utility because it came with my Canon EOS 700D, it was free, and it serves our purpose. Here is an article from [Tether Tools (2020)](https://tethertools.com/blog/what-tethering-software-is-available/) that discuss other tethering software that is currently on the market.
+### Remote capture: EOS Utility (if using a compatible Canon camera)
+Remote capturing images directly to your computer can speed up your task of taking photos, especially if you set up a good workflow. There are many tethering tools available. I have chosen EOS Utility because it came with my Canon EOS 700D, it was free, and it serves our purpose. Here is an article from [Tether Tools (2020)](https://tethertools.com/blog/what-tethering-software-is-available/) that discuss other tethering software that is currently on the market.
 
 If you are planning to use a Canon camera that is compatible with the EOS Utility software, here are the links:
 * [EOS Utility for PCs](https://www.canon.com.au/support/sims-content?pid=74c2eb672e2946a7b940f86e2c9e2461&cid=3E70ECD154334FBD866C212BDC988F56&ctype=ap) 
@@ -111,9 +111,9 @@ If you are planning to use a Canon camera that is compatible with the EOS Utilit
 
 
 ### Image preview and processing: Adobe Bridge
-As you capture the images, it is important to check the quality of your images before you get too far into your task. That said, at the end of the day, if you have collected hundreds of photos and you realise that they would be better cropped, or that the lighting was too warm and you would like to cool the colours, you can use Adobe Bridge to do this rather quickly in a batch process. At the time of me writing this guide, Adobe Bridge was available for free. You do not need to pay for it, but you do need to sign up with Adobe. [Navigate to the Adobe Bridge download page](https://www.adobe.com/au/products/bridge.html).
+As you capture the images, it is important to check their quality before you get too far into your task. But even at the end of the day, when if you have collected hundreds of photos, you may realise that they would be better cropped, or that the lighting was too warm and you would like to cool down the colours, you can use Adobe Bridge to do this as a batch process. Adobe Bridge is available for free. You do not need to pay for it, but you do need to sign up with Adobe. [Navigate to the Adobe Bridge download page](https://www.adobe.com/au/products/bridge.html).
 
-> **Note:** You cannot edit raw images using the free version of Bridge; you can only do this if you already have photoshop. If you are using EOS Utility, Digital Photo Professional (DPP) is installed as well as the remote capture tool. You can view your .CR2 raw files and create JPEG or TIFF from them in DPP.
+> **Note:** If you are capturing raw images (.CR2 files), you cannot edit them using Bridge alone; you need to have photoshop. If you are using the EOS Utility software, a tool called Digital Photo Professional (DPP) is installed along with the remote capture tool. You can view and edit your .CR2 files and create .JPGs or .TIFs from there.
 
 ## Workflow for remote capture (Canon EOS 700D)
 
