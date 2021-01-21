@@ -101,9 +101,14 @@ The downside to using a photo stand is the cost. Pricing for these can be a bit 
 ## Software
 
 ### Remote capture: EOS Utility (if using compatible Canon camera)
-If you are using a Canon camera that is compatible with the EOS Utility software, you can choose to remotely capture images to a tethered computer. This software works for both [PCs](https://www.canon.com.au/support/sims-content?pid=74c2eb672e2946a7b940f86e2c9e2461&cid=3E70ECD154334FBD866C212BDC988F56&ctype=ap) and [Macs](https://www.canon.com.au/support/sims-content?pid=0a6e29c7259d4fa8938b3bb591ebb372&cid=A5B1C6A24B9D464DBCFE41EEE51ECAD3&ctype=ap). The link to the PC version is for EOS Utility 3, which is not compatible with my EOS 700D camera; however, with this installation both EOS Utility 2 and EOS Utility 3 are installed. The version that I am using is 2.14.20.0.
+Remote capturing images directly to your computer can speed up your task of taking photos if you set up a good workflow. There are many tethering tools available. I have chosen EOS Utility because it came with my Canon EOS 700D, it was free, and it serves our purpose. Here is an article from [Tether Tools (2020)](https://tethertools.com/blog/what-tethering-software-is-available/) that discuss other tethering software that is currently on the market.
 
-Remote capture can speed up your task of taking photos if you set up a good workflow. 
+If you are planning to use a Canon camera that is compatible with the EOS Utility software, here are the links:
+* [EOS Utility for PCs](https://www.canon.com.au/support/sims-content?pid=74c2eb672e2946a7b940f86e2c9e2461&cid=3E70ECD154334FBD866C212BDC988F56&ctype=ap) 
+* [EOS Utility for Macs](https://www.canon.com.au/support/sims-content?pid=0a6e29c7259d4fa8938b3bb591ebb372&cid=A5B1C6A24B9D464DBCFE41EEE51ECAD3&ctype=ap)
+
+> The link to the PC version is for EOS Utility 3, which is not compatible with my EOS 700D camera; however, with this installation both EOS Utility 2 and EOS Utility 3 are installed. The version that I am using is 2.14.20.0.
+
 
 ### Image preview and processing: Adobe Bridge
 As you capture the images, it is important to take a look at your images before you get too far into your task. That said, at the end of the day, if you have collected 1,000 photos and you realise that you would like to crop them, or that the lighting was a bit too warm and you need to cool the colours a bit, you can use Bridge to do this rather quickly.
