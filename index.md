@@ -12,6 +12,16 @@ This page outlines PARADISEC's approach to digitising text materials. The majori
 * the equipment is portable and can easily be set up in most environments, including remote field locations with tricky power options
 * depending on your equipment choices, this can be the least expensive option, yet will still retain high quality output
 
+
+## Target format of images to be archived in PARADISEC
+Before discussing the details of equipment we use in this workflow, here are the expected file formats and quality standards we adhere to. Deviation from this set of expectations in inevitable, but if you can try to match them, do.
+
+|  |  |
+| :--- | :--- |
+|   |   |
+|   |   |
+
+
 ## Equipment used in this guide
 
 | Equipment | Description and links to more details |
