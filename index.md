@@ -14,12 +14,14 @@ This page outlines PARADISEC's approach to digitising text materials. The majori
 
 
 ## Target format of images to be archived in PARADISEC
-Before discussing the details of equipment we use in this workflow, here are the expected file formats and quality standards we adhere to. Deviation from this set of expectations in inevitable, but if you can try to match them, do.
+Before discussing the details of equipment we use in this workflow, here are the target file formats and quality standards we adhere to. Adhering to these high standards may be impossible in some environments; try to aim for these as best as you can.
 
-|  |  |
-| :--- | :--- |
-|   |   |
-|   |   |
+|   | Capture file format | Archival copy  | Access copy  |
+| :--- | :--- | :--- | : --- |
+| File type |  .CR2 | .tif  | .jpg |
+| DPI  |  72 |  400 | 300 |
+| Bits/Channel  | 16  | 8  | 8 |
+| Colour mode | RGB (Adobe RGB (1998) | RGB| RGB |
 
 
 ## Equipment used in this guide
