@@ -19,7 +19,7 @@ Before discussing the details of equipment we use in this workflow, here are the
 |           | Capture file format | Archival copy  | Access copy  |  Combined images for access (if relevant) |
 | :---      | :---                | :---           | :---         | :---  |
 | File type |  .CR2 (raw, uncompressed) | .tif (uncompressed)     | .jpg (created by PARADISEC) | .pdf |
-| DPI       |  72                 |  400           | 300          | built from compressed .jpg |
+| DPI       |  72                 |  400           | 300          | built from compressed .jpgs |
 | Bits/Channel | 16 bit           | 8 bit          | 8 bit        | use 8 bit .jpgs |
 | Colour mode | RGB (Adobe RGB (1998) | RGB       | RGB          | use RGB .jpgs |
 
