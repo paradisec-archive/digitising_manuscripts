@@ -24,6 +24,7 @@ Before discussing the details of equipment we use in this workflow, here are the
 | Colour mode | RGB (Adobe RGB (1998) | RGB       | RGB          | use RGB .jpgs |
 
 >**Note:** The above 72 DPI *(dots per inch)* figure for the raw image is not very revealing as to the image quality compared to the 400 or 300 DPI figures. Image quality actually has more to do with pixel dimension. If you wish to read up on why DPI can be a tricky standard, take a look at this article: [The myth of DPI](http://www.rideau-info.com/photos/mythdpi.html). There will be more about target image sizes (pixel dimension) below in the section on workflow and remote capture settings.
+
 ----------
 
 ## Equipment used in this guide
