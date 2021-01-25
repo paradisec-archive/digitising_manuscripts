@@ -23,6 +23,7 @@ Before discussing the details of equipment we use in this workflow, here are the
 | Bits/Channel | 16 bit           | 8 bit          | 8 bit        | use 8 bit .jpgs |
 | Colour mode | RGB (Adobe RGB (1998) | RGB       | RGB          | use RGB .jpgs |
 
+>**Note:** The above 72 dpi figure for the raw image is not very telling as to the image quality. The quality actually has to do with pixel dimension. If you wish to read up on why dpi can be a tricky standard, take a look at this article: [The myth of dpi](http://www.rideau-info.com/photos/mythdpi.html) More about image size (pixel dimension) below in the workflow and remote capture settings.
 ----------
 
 ## Equipment used in this guide
