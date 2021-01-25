@@ -18,10 +18,11 @@ Before discussing the details of equipment we use in this workflow, here are the
 
 |           | Capture file format | Archival copy  | Access copy  |  Combined images for access (if relevant) |
 | :---      | :---                | :---           | :---         | :---  |
-| File type |  .CR2 <br> (raw, uncompressed, captured by camera) | .tif <br> (uncompressed, created by you)     | .jpg <br> (compressed, created by PARADISEC) | .pdf |
-| DPI       |  72                 |  400           | 300          | built from compressed .jpgs |
-| Bits/Channel | 16 bit           | 8 bit          | 8 bit        | use 8 bit .jpgs |
-| Colour mode | RGB (Adobe RGB (1998) | RGB       | RGB          | use RGB .jpgs |
+| File type |  .CR2 | .tif     | .jpg  | .pdf |
+| Description  | raw, uncompressed, captured by camera | uncompressed, created by you | compressed, created by PARADISEC | created using compressed .jpgs |
+| DPI       |  72                 |  400           | 300          | -- |
+| Bits/Channel | 16 bit           | 8 bit          | 8 bit        | -- |
+| Colour mode | RGB (Adobe RGB (1998) | RGB       | RGB          | -- |
 
 > **Note:** The above 72 DPI *(dots per inch)* figure for the raw image is not very revealing as to the image quality compared to the 400 or 300 DPI figures. Image quality actually has more to do with pixel dimension. If you wish to read up on why DPI can be a tricky standard, take a look at this article: [The myth of DPI](http://www.rideau-info.com/photos/mythdpi.html). There will be more about target image sizes (pixel dimension) below in the section on workflow and remote capture settings.
 
