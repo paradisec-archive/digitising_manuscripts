@@ -61,6 +61,7 @@ This DSLR *does* allow remote capture tethering. This opens up the possibility o
 
 > **Note:** If you are going to be taking photos in a remote area with unpredictable access to a power source, you may need to pair a [portable solar pannel and power bank](https://powertraveller.com/collections/power-packs) with a [universal battery charger](https://www.digitalcameraworld.com/au/buying-guides/the-best-universal-charger-for-your-camera-batteries) to charge your camera's battery
 
+
 ### Tripods and photo stands
 
 #### Velbon Sherpa 803R
@@ -73,7 +74,7 @@ We purchased this tripod about ten years ago, so you will likely not find the ex
   <img width="500" src="images/img-cap-tripod.JPG">
 </p>
 
-#### Setting up the tripod with reversable centre post
+##### Setting up the tripod with reversable centre post
 This is a great set-up beacuse it is the least expensive and the most versatile, especially if you need to photograph items in a remote location. The tricky part is getting the lighting right. Your light source (natural or artificial) could be blocked by the tripod legs and cast a shadow on your image. If your light source is in a fixed position, try moving the tripod around to minimise any shadows. You may also try to find lights that you can clip on to the legs of your tripod or onto nearby furniture. Just be mindful that too much direct, unfiltered lighting may wash out your image. I try to find a light coloured wall I can place the tripod next to and then shine the lights onto the wall. The reflected light is usually enough to provide evenly disrtributed indirecrt lighting.
 
 <p align="center">
@@ -87,7 +88,7 @@ The Velbon tripod came with a shelf clamp accessory, but you can purchase this s
   <img width="500" src="images/img-cap-shelfclamp.JPG">
 </p>
 
-#### Setting up the shelf clamp
+##### Setting up the shelf clamp
 Using just the shelf clamp and the tripod's centre post is by far the simplest combination, especially if there is any travel involved. The only drawback is that this requires a shelf that you can clamp to. However, if you are in a very remote location you could construct something with timber, bamboo, or even a smooth, sturdy branch. Just make sure it is strong and secure enough to hold your camera and allows you to create consistant images. 
 
 Below are two configurations with the shelf clamp and an actual shelf (no need for bamboo this time). The image on the left is with the Canon EOS 700D tethered to a laptop for remote capture. The image on the right is the Canon PowerShot; images are being captured to the camera's SD card. 
@@ -105,7 +106,7 @@ The Reprokid model is a compact camera stand that can accommodate small, lightwe
   <img width="500" src="images/img-cap-photo-stand.JPG">
 </p>
 
-#### Setting up the photo stand
+##### Setting up the photo stand
 Photo stands have many benefits for image capture. This particular model has the lighting attached, as noted above you don't have to worry about where to clamp the lights. The light fixtures on this stand can move around, so if the light is too direct and overpowering, they can turn so that they are pointing away or toward the back wall. Be mindful of the cables from the lights; if you don't tie them up and out of the way, they can show up in an image, or cast a shadow on your subject.
 
 Having the camera attached to a stable, ruled post is great for keeping your set-up consistant from day to day. If you need to shift things around in your space, the entire set-up can be moved as is. Having a solid base on which to put your notebooks or documents is also a fine feature. The base on this model is a bit small. If you need to build up the base to create an expanded, level for larger notebooks to fit, perhaps place some books you may have nearby around the photostand's base to create an enlarged, even platform. Or get a piece of plywood and clamp it to the photo stand base.
@@ -115,6 +116,7 @@ The downside to using a photo stand is the cost. Pricing for these can be a bit 
 <p align="center">
   <img width="500" src="images/imgcap-photostand-remote3.jpg">
 </p>
+
 
 ## Software
 
