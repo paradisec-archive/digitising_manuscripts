@@ -16,7 +16,7 @@ This page outlines PARADISEC's approach to digitising text materials. The majori
 ## Target format of images to be archived in PARADISEC
 Before discussing the details of equipment we use in this workflow, here are the target file formats for image capture and archiving and the quality standards we request. Adhering to these high standards may be difficult in some situations; please try to aim for these as best you can.
 
-|           | Capture file format | Archival copy  | Access copy  |  Combined images for access (if relevant) |
+|           | Capture file format | Archival copy  | Access copy  |  Combined images for access |
 | :---      | :---                | :---           | :---         | :---  |
 | File type |  .CR2 | .tif     | .jpg  | .pdf |
 | Description  | raw, uncompressed, captured by camera | uncompressed, created by you | compressed, created by PARADISEC | created using compressed .jpgs |
