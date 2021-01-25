@@ -13,7 +13,7 @@ This page outlines PARADISEC's approach to digitising text materials. The majori
 * depending on your equipment choices, this can be the least expensive option, yet will still retain high quality output
 
 
-## Target format of images to be archived in PARADISEC
+## Target formats of images to be archived in PARADISEC
 Before discussing the details of equipment we use in this workflow, here are the target file formats and quality standards we request. Adhering to these high standards may be difficult in some situations; please try to aim for these as best you can.
 
 |           | Capture file format | Archival copy  | Access copy  |  Combined images for access (if relevant) |
