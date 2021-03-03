@@ -113,7 +113,7 @@ Having the camera attached to a stable, ruled post is great for keeping your set
 The downside to using a photo stand is the cost. Pricing for these can be a bit expensive. The Reprokid is one of Kaiser's less expensive models and it works very well for our purposes.
 
 <p align="center">
-  <img width="500" src="images/imgcap-photostand-remote3.jpg">
+  <img width="200" src="images/imgcap-photostand-remote3.jpg">
 </p>
 
 
