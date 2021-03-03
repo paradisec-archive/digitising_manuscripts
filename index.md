@@ -113,7 +113,7 @@ Having the camera attached to a stable, ruled post is great for keeping your set
 The downside to using a photo stand is the cost. Pricing for these can be a bit expensive. The Reprokid is one of Kaiser's less expensive models and it works very well for our purposes.
 
 <p align="center">
-  <img width="200" src="images/imgcap-photostand-remote3.jpg">
+  <img width="500" src="images/imgcap-photostand-remote3.jpg">
 </p>
 
 
@@ -150,7 +150,7 @@ As you capture the images, it is important to check their quality before you get
   A window with the camera settings will pop up on the right side of the screen.
  
  <p align="center">
-  <img width="500" src="images/imgcap-EOS-settings.jpg">
+  <img width="200" src="images/imgcap-EOS-settings.jpg">
 </p>
   
 5. Click on "Live View shoot...". This will open the window showing the full live view of what the camera is capturing.
