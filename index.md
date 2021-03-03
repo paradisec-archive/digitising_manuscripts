@@ -18,7 +18,7 @@ Before discussing the details of equipment we use in this workflow, here are the
 
 |           | Capture file format | Archival copy  | Access copy  |
 | :---      | :---                | :---           | :---         |
-| File type |  .CR2 | .tif     | .jpg  |
+| File type |  .CR2 (RAW) | .tif     | .jpg  |
 | DPI       |  72                 |  400           | 300          |
 | Bits/Channel | 16 bit           | 8 bit          | 8 bit        |
 | Colour mode | RGB (Adobe RGB (1998) | RGB       | RGB           |
@@ -135,8 +135,25 @@ As you capture the images, it is important to check their quality before you get
 > **Note:** If you are capturing raw images (.CR2 files), you cannot edit them using Bridge alone; you need to have photoshop. If you are using the EOS Utility software, a tool called Digital Photo Professional (DPP) is installed along with the remote capture tool. You can view and edit your .CR2 files and create .JPGs or .TIFs from there.
 
 ## Workflow for remote capture (Canon EOS 700D)
+*(This is specifically designed for ANU-PARADISEC workflows, but the concepts are easy enough to personalise for your own purposes)
 
 ## Workflow for non-tethered camera (Canon PowerShot G12)
+1. Start the computer and use your ANU UniID to log on
+2. Take the Canon 700D battery pack from the charger and insert into the camera.
+3. Turn the camera on. This will also open the EOS Utility software installed on the computer.
+4. Select "camera setting/remote shooting" from the start screen. A window with the camera settings will pop up on the right side of the screen. 
+5. Click on "Live View shoot...". This will open the window showing the full live view of what the camera is capturing.
+6. Click on the folder icon to select a destination folder. For collected items (folder, notebook, manuscript, etc.), create a new folder for each item. You will be saving these images directly to the folder you designate- *not* to the SD card in the camera.
+7. To set up the file-naming for the images:
+    a. Click on the folder icon and select "File Names" in the preference window
+    b. Click "Customize..." to customize the name. Create file names that start with a collection ID, followed by a hyphen, then the item number (what you have come up with as an ID for your notebook/folder/manuscript), and then select sequential numbering of the images, e.g. DT1-04-<Sequential Number> 
+    c. Set "Number of Digits" to 3, This will accommodate items with 999 pages. If there are under one hundred pages, use 2 digits. If over a thousand pages, use 4 digits. This will help with the ordering in PARADISEC collections and is just good practice.
+    d. Set "Start" to 1 at when you begin photographing each new item (otherwise it will just continue counting from whatever was shot in the previous session)
+8. Fix the position the item using the Live view window. Use the black card stok paper provided as a background and to cover the page that is not the target page.
+9. Set lighting by double-clicking on the relevant icon in the settings window. For instance, the ISO should be 400 for indoor shooting and the lamp symbol should show the light bulb if you are using the lamps on the camera stand. You can also adjust the lightness/darkness in the bar with the numbers.
+10. When the live view window shows what you would like to capture, either click on the round, grey button in the top right corner or press the space bar. A window will pop up to show the picture taken. Repeat this step for each page of your item.
+11. When finishing a session for the day, wait until the last image has loaded and then switch the camera off.
+12. Remove the battery and put into the charger to charge for the next session.
 
 ## Post-production processing of images
 
