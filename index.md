@@ -135,14 +135,27 @@ As you capture the images, it is important to check their quality before you get
 > **Note:** If you are capturing raw images (.CR2 files), you cannot edit them using Bridge alone; you need to have photoshop. If you are using the EOS Utility software, a tool called Digital Photo Professional (DPP) is installed along with the remote capture tool. You can view and edit your .CR2 files and create .JPGs or .TIFs from there.
 
 ## Workflow for remote capture (Canon EOS 700D)
-*(This is specifically designed for ANU-PARADISEC workflows, but the concepts are easy enough to personalise for your own purposes)
 
-## Workflow for non-tethered camera (Canon PowerShot G12)
+*(This is specifically designed for ANU-PARADISEC workflows, but the concepts are easy enough to personalise for your own purposes)*
+
 1. Start the computer and use your ANU UniID to log on
 2. Take the Canon 700D battery pack from the charger and insert into the camera.
 3. Turn the camera on. This will also open the EOS Utility software installed on the computer.
-4. Select "camera setting/remote shooting" from the start screen. A window with the camera settings will pop up on the right side of the screen. 
+4. Select "camera setting/remote shooting" from the start screen. 
+
+<p align="center">
+  <img width="500" src="images/imgcap-EOS-settings-menu.jpg">
+</p>
+  
+  A window with the camera settings will pop up on the right side of the screen.
+ 
+ <p align="center">
+  <img width="500" src="images/imgcap-EOS-settings.jpg">
+</p>
+  
 5. Click on "Live View shoot...". This will open the window showing the full live view of what the camera is capturing.
+
+
 6. Click on the folder icon to select a destination folder. For collected items (folder, notebook, manuscript, etc.), create a new folder for each item. You will be saving these images directly to the folder you designate- *not* to the SD card in the camera.
 7. To set up the file-naming for the images:
     * Click on the folder icon and select "File Names" in the preference window
@@ -155,9 +168,13 @@ As you capture the images, it is important to check their quality before you get
 11. When finishing a session for the day, wait until the last image has loaded and then switch the camera off.
 12. Remove the battery and put into the charger to charge for the next session.
 
+## Workflow for non-tethered camera (Canon PowerShot G12)
+
+***A workflow for using using a non-tethered camera for image capture is currently in progress (03-03-2021)***
+
 ## Post-production processing of images
 
-***A workflow for using Adobe Bridge for batch processing is currently in progress***
+***A workflow for using Adobe Bridge for batch processing is currently in progress (03-03-2021)***
 
 
 
