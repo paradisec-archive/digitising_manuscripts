@@ -167,11 +167,18 @@ As you capture the images, it is important to check their quality before you get
   <img width="200" src="images/imgcap-EOS-settings-light.jpg">
 </p>
 
-The ISO should be 400 for indoor shooting. You can also adjust the lightness/darkness in the bar with the numbers.
+The ISO should be 400 for indoor shooting.
 
 <p align="center">
   <img width="200" src="images/imgcap-EOS-settings-ISO.jpg">
 </p>
+
+You can also adjust the lightness/darkness in the bar with the numbers.
+
+<p align="center">
+  <img width="200" src="images/imgcap-EOS-settings-more-lighting.jpg">
+</p>
+
 
 10. When the live view window shows what you would like to capture, either click on the round, black button in the top right corner in the remote window or press the space bar. A window will pop up to show the picture taken. Repeat this step for each page of your item.
 11. When finishing a session for the day, wait until the last image has loaded and then switch the camera off.
