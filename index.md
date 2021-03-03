@@ -173,7 +173,7 @@ The ISO should be 400 for indoor shooting.
   <img width="200" src="images/imgcap-EOS-settings-ISO.jpg">
 </p>
 
-You can also adjust the lightness/darkness in the bar with the numbers.
+You can also adjust the lightness/darkness by moving toward the -1 or +1 directions on this digital slider.
 
 <p align="center">
   <img width="200" src="images/imgcap-EOS-settings-more-lighting.jpg">
