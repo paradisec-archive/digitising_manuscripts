@@ -167,13 +167,13 @@ As you capture the images, it is important to check their quality before you get
   <img width="200" src="images/imgcap-EOS-settings-light.jpg">
 </p>
 
-The ISO should be 400 for indoor shooting.
+The ISO should be 400 for our studio lighting.
 
 <p align="center">
   <img width="200" src="images/imgcap-EOS-settings-ISO.jpg">
 </p>
 
-You can also adjust the lightness/darkness by moving toward the -1 or +1 directions on this digital slider.
+If necessary, make finer adjustments to the image lightness/darkness by moving this digital slider either toward -1 or +1.
 
 <p align="center">
   <img width="200" src="images/imgcap-EOS-settings-more-lighting.jpg">
