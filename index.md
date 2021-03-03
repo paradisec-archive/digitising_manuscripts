@@ -154,8 +154,6 @@ As you capture the images, it is important to check their quality before you get
 </p>
   
 5. Click on "Live View shoot..." as seen in the remote window above. This will open the window showing the full live view of what the camera is capturing.
-
-
 6. Click on the folder icon *(found toward the top of the remote, under the AF/MF switch)* to select a destination folder. For collected items (folder, notebook, manuscript, etc.), create a new folder for each item. You will be saving these images directly to the folder you designate- *not* to the SD card in the camera.
 7. To set up the file-naming for the images:
     * Click on the folder icon and select "File Names" in the preference window
@@ -163,7 +161,7 @@ As you capture the images, it is important to check their quality before you get
     * Set "Number of Digits" to 3, This will accommodate items with 999 pages. If there are under one hundred pages, use 2 digits. If over a thousand pages, use 4 digits. This will help with the ordering in PARADISEC collections and is just good practice.
     * Set "Start" to 1 at when you begin photographing each new item (otherwise it will just continue counting from whatever was shot in the previous session)
 8. Fix the position the item using the Live view window. Use the black card stok paper provided as a background and to cover the page that is not the target page.
-9. Set lighting by double-clicking on the relevant icon in the settings window. The lamp symbol (indicating tungsten lighting) should show the light bulb.
+9. Set lighting by double-clicking on the relevant icon in the settings window. The lamp symbol (indicating tungsten lighting) should show the light bulb. This is the best light setting for our studio.
 
 <p align="center">
   <img width="200" src="images/imgcap-EOS-settings-light.jpg">
@@ -176,7 +174,6 @@ The ISO should be 400 for indoor shooting. You can also adjust the lightness/dar
 </p>
 
 10. When the live view window shows what you would like to capture, either click on the round, black button in the top right corner in the remote window or press the space bar. A window will pop up to show the picture taken. Repeat this step for each page of your item.
-
 11. When finishing a session for the day, wait until the last image has loaded and then switch the camera off.
 12. Remove the battery and put into the charger to charge for the next session.
 
