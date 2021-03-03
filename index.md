@@ -18,7 +18,7 @@ Before discussing the details of equipment we use in this workflow, here are the
 
 |           | Capture file format | Archival copy  | Access copy  |
 | :---      | :---                | :---           | :---         |
-| File type |  .CR2 | .tif     | .jpg  | .pdf |
+| File type |  .CR2 | .tif     | .jpg  |
 | DPI       |  72                 |  400           | 300          |
 | Bits/Channel | 16 bit           | 8 bit          | 8 bit        |
 | Colour mode | RGB (Adobe RGB (1998) | RGB       | RGB           |
