@@ -166,13 +166,13 @@ As you capture the images, it is important to check their quality before you get
 9. Set lighting by double-clicking on the relevant icon in the settings window. The lamp symbol (indicating tungsten lighting) should show the light bulb.
 
 <p align="center">
-  <img width="100" src="images/imgcap-EOS-settings-light.jpg">
+  <img width="200" src="images/imgcap-EOS-settings-light.jpg">
 </p>
 
 The ISO should be 400 for indoor shooting. You can also adjust the lightness/darkness in the bar with the numbers.
 
 <p align="center">
-  <img width="100" src="images/imgcap-EOS-settings-ISO.jpg">
+  <img width="200" src="images/imgcap-EOS-settings-ISO.jpg">
 </p>
 
 10. When the live view window shows what you would like to capture, either click on the round, black button in the top right corner in the remote window or press the space bar. A window will pop up to show the picture taken. Repeat this step for each page of your item.
