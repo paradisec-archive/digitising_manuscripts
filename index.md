@@ -181,7 +181,7 @@ As you capture the images, it is important to check their quality before you get
 8. Fix the position the item using the Live view window. Use the black card stock paper provided as a background and to cover the page that is not the target page.
 
     <p align="center">
-      <img width="300" src="images/imgcap-blocking.jpg">
+      <img width="300" src="images/img-cap-blocking.jpg">
     </p>
 
 9. Set lighting by double-clicking on the relevant icon in the settings window. The lamp symbol (indicating tungsten lighting) should show the light bulb. This is the best light setting for our studio.
