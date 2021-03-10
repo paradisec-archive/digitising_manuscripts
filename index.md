@@ -132,7 +132,8 @@ The downside to using a photo stand is the cost. Pricing for these can be a bit 
 
 ### Software
 
-#### Remote capture: EOS Utility (if using a compatible Canon camera)
+#### EOS Utility 
+***For remote capture: Use Canon's EOS Utility with a compatible Canon camera***
 Remote capturing images directly to your computer can speed up your task of taking photos, especially if you set up a good workflow. There are many tethering tools available. I have chosen EOS Utility because it came with my Canon EOS 700D, it was free, and it serves our purpose. Here is an article from [Tether Tools (2020)](https://tethertools.com/blog/what-tethering-software-is-available/) that discuss other tethering software that is currently on the market.
 
 If you are planning to use a Canon camera that is compatible with the EOS Utility software, here are the links:
@@ -142,12 +143,13 @@ If you are planning to use a Canon camera that is compatible with the EOS Utilit
 > **Note:** The link to the PC version is for EOS Utility 3, which is not compatible with my EOS 700D camera; however, with this installation both EOS Utility 2 and EOS Utility 3 are installed. The version that I am using is 2.14.20.0.
 
 
-#### Image preview and processing: Adobe Bridge
+#### Adobe Bridge
+***For image preview and processing, use Adobe Bridge*** 
 As you capture the images, it is important to check their quality before you get too far into your task. But even at the end of the day, when if you have collected hundreds of photos, you may realise that they would be better cropped, or that the lighting was too warm and you would like to cool down the colours, you can use Adobe Bridge to do this as a batch process. Adobe Bridge is available for free. You do not need to pay for it, but you do need to sign up with Adobe. [Navigate to the Adobe Bridge download page](https://www.adobe.com/au/products/bridge.html).
 
 > **Note:** If you are capturing raw images (.CR2 files), you cannot edit them using Bridge alone; you need to have photoshop. If you are using the EOS Utility software, a tool called Digital Photo Professional (DPP) is installed along with the remote capture tool. You can view and edit your .CR2 files and create .JPGs or .TIFs from there.
 
-### Workflow for remote capture (Canon EOS 700D)
+### Workflow for remote capture
 
 *(This is specifically designed for ANU-PARADISEC workflows, but the concepts are easy enough to personalise for your own purposes)*
 
@@ -199,7 +201,7 @@ If necessary, make finer adjustments to the image lightness/darkness by moving t
 11. When finishing a session for the day, wait until the last image has loaded and then switch the camera off.
 12. Remove the battery and put into the charger to charge for the next session.
 
-### Workflow for non-tethered camera (Canon PowerShot G12)
+### Workflow for non-tethered camera
 
 ***A workflow for using using a non-tethered camera for image capture is currently in progress (03-03-2021)***
 
