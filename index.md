@@ -133,7 +133,7 @@ The downside to using a photo stand is the cost. Pricing for these can be a bit 
 ### Software
 
 #### EOS Utility 
-***For remote capture: Use Canon's EOS Utility with a compatible Canon camera***
+***For remote capture: Use Canon's EOS Utility with a compatible Canon camera***<br>
 Remote capturing images directly to your computer can speed up your task of taking photos, especially if you set up a good workflow. There are many tethering tools available. I have chosen EOS Utility because it came with my Canon EOS 700D, it was free, and it serves our purpose. Here is an article from [Tether Tools (2020)](https://tethertools.com/blog/what-tethering-software-is-available/) that discuss other tethering software that is currently on the market.
 
 If you are planning to use a Canon camera that is compatible with the EOS Utility software, here are the links:
@@ -144,7 +144,7 @@ If you are planning to use a Canon camera that is compatible with the EOS Utilit
 
 
 #### Adobe Bridge
-***For image preview and processing, use Adobe Bridge*** 
+***For image preview and processing, use Adobe Bridge***<br> 
 As you capture the images, it is important to check their quality before you get too far into your task. But even at the end of the day, when if you have collected hundreds of photos, you may realise that they would be better cropped, or that the lighting was too warm and you would like to cool down the colours, you can use Adobe Bridge to do this as a batch process. Adobe Bridge is available for free. You do not need to pay for it, but you do need to sign up with Adobe. [Navigate to the Adobe Bridge download page](https://www.adobe.com/au/products/bridge.html).
 
 > **Note:** If you are capturing raw images (.CR2 files), you cannot edit them using Bridge alone; you need to have photoshop. If you are using the EOS Utility software, a tool called Digital Photo Professional (DPP) is installed along with the remote capture tool. You can view and edit your .CR2 files and create .JPGs or .TIFs from there.
@@ -168,7 +168,7 @@ As you capture the images, it is important to check their quality before you get
     A window with the camera settings will pop up on the right side of the screen.
  
     <p align="center">
-      <img width="100" src="images/imgcap-EOS-settings.jpg">
+      <img width="200" src="images/imgcap-EOS-settings.jpg">
     </p>
   
 5. Click on "Live View shoot..." as seen in the remote window above. This will open the window showing the full live view of what the camera is capturing.
@@ -178,7 +178,12 @@ As you capture the images, it is important to check their quality before you get
     * Click "Customize..." to customize the name. Create file names that start with a collection ID, followed by a hyphen, then the item number (what you have come up with as an ID for your notebook/folder/manuscript), and then select sequential numbering of the images, e.g. DT1-04-<Sequential Number> 
     * Set "Number of Digits" to 3, This will accommodate items with 999 pages. If there are under one hundred pages, use 2 digits. If over a thousand pages, use 4 digits. This will help with the ordering in PARADISEC collections and is just good practice.
     * Set "Start" to 1 at when you begin photographing each new item (otherwise it will just continue counting from whatever was shot in the previous session)
-8. Fix the position the item using the Live view window. Use the black card stok paper provided as a background and to cover the page that is not the target page.
+8. Fix the position the item using the Live view window. Use the black card stock paper provided as a background and to cover the page that is not the target page.
+
+    <p align="center">
+      <img width="300" src="images/imgcap-blocking.jpg">
+    </p>
+
 9. Set lighting by double-clicking on the relevant icon in the settings window. The lamp symbol (indicating tungsten lighting) should show the light bulb. This is the best light setting for our studio.
 
     <p align="center">
