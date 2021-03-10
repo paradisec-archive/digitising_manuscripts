@@ -12,6 +12,18 @@ This page outlines PARADISEC's approach to digitising text materials. The majori
 * the equipment is portable and can easily be set up in most environments, including remote field locations with tricky power options
 * depending on your equipment choices, this can be the least expensive option, yet will still retain high quality output
 
+# Page Contents
+[Target format of images to be archived in PARADISEC](https://github.com/paradisec-archive/digitising_manuscripts/blob/main/index.md#target-format-of-images-to-be-archived-in-paradisec)
+[Equipment used in this guide](https://github.com/paradisec-archive/digitising_manuscripts/blob/main/index.md#equipment-used-in-this-guide)
+ - [Cameras]()
+ - [Tripods and photo stands]()
+[Software]()
+ - [Remote capture: EOS Utility (if using a compatible Canon camera)]()
+ - [Image preview and processing: Adobe Bridge]()
+[Workflow for remote capture]()
+[Workflow for non-tethered camera]()
+[Post-production processing of images]()
+
 
 ## Target format of images to be archived in PARADISEC
 Before discussing the details of equipment we use in this workflow, here are the target file formats for image capture and archiving and the quality standards we request. Adhering to these high standards may be difficult in some situations; please try to aim for these as best you can.
