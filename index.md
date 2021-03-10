@@ -181,21 +181,21 @@ As you capture the images, it is important to check their quality before you get
 8. Fix the position the item using the Live view window. Use the black card stok paper provided as a background and to cover the page that is not the target page.
 9. Set lighting by double-clicking on the relevant icon in the settings window. The lamp symbol (indicating tungsten lighting) should show the light bulb. This is the best light setting for our studio.
 
- <p align="center">
-  <img width="200" src="images/imgcap-EOS-settings-light.jpg">
- </p>
+    <p align="center">
+     <img width="200" src="images/imgcap-EOS-settings-light.jpg">
+    </p>
 
- The ISO should be 400 for our studio lighting.
+    The ISO should be 400 for our studio lighting.
 
- <p align="center">
-  <img width="200" src="images/imgcap-EOS-settings-ISO.jpg">
- </p>
+    <p align="center">
+     <img width="200" src="images/imgcap-EOS-settings-ISO.jpg">
+    </p>
 
- If necessary, make finer adjustments to the image lightness/darkness by moving this digital slider either toward -1 or +1.
+    If necessary, make finer adjustments to the image lightness/darkness by moving this digital slider either toward -1 or +1.
 
- <p align="center">
-  <img width="200" src="images/imgcap-EOS-settings-more-lighting.jpg">
- </p>
+    <p align="center">
+     <img width="200" src="images/imgcap-EOS-settings-more-lighting.jpg">
+    </p>
 
 10. When the live view window shows what you would like to capture, either click on the round, black button in the top right corner in the remote window or press the space bar. A window will pop up to show the picture taken. Repeat this step for each page of your item.
 11. When finishing a session for the day, wait until the last image has loaded and then switch the camera off.
