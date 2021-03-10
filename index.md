@@ -12,7 +12,7 @@ This page outlines PARADISEC's approach to digitising text materials. The majori
 * the equipment is portable and can easily be set up in most environments, including remote field locations with tricky power options
 * depending on your equipment choices, this can be the least expensive option, yet will still retain high quality output
 
-## Page Contents
+### Page Contents
 * [Target format of images to be archived in PARADISEC](#target-format-of-images-to-be-archived-in-paradisec)
 * [Equipment used in this guide](#equipment-used-in-this-guide)
   * [Cameras](#cameras)
@@ -23,6 +23,7 @@ This page outlines PARADISEC's approach to digitising text materials. The majori
 * [Workflow for remote capture](#workflow-for-remote-capture)
 * [Workflow for non-tethered camera](#Workflow-for-non-tethered-camera)
 * [Post-production processing of images](#post-production-processing-of-images)
+* [Additional resources](#additional-resources)
 
 
 ### Target format of images to be archived in PARADISEC
