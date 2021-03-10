@@ -13,16 +13,16 @@ This page outlines PARADISEC's approach to digitising text materials. The majori
 * depending on your equipment choices, this can be the least expensive option, yet will still retain high quality output
 
 # Page Contents
-[Target format of images to be archived in PARADISEC](#target-format-of-images-to-be-archived-in-paradisec)<br>
-[Equipment used in this guide](#equipment-used-in-this-guide)
- - [Cameras]()
- - [Tripods and photo stands]()
-[Software]()
- - [Remote capture: EOS Utility (if using a compatible Canon camera)]()
- - [Image preview and processing: Adobe Bridge]()
-[Workflow for remote capture]()
-[Workflow for non-tethered camera]()
-[Post-production processing of images]()
+* [Target format of images to be archived in PARADISEC](#target-format-of-images-to-be-archived-in-paradisec)
+* [Equipment used in this guide](#equipment-used-in-this-guide)
+ - [Cameras](#cameras)
+ - [Tripods and photo stands](#tripods-and-photo-stands)
+* [Software](#software)
+ - [EOS Utility](#eos-utility)
+ - [Adobe Bridge](#adobe-bridge)
+* [Workflow for remote capture](#workflow-for-remote-capture)
+* [Workflow for non-tethered camera](#Workflow-for-non-tethered-camera)
+* [Post-production processing of images](#post-production-processing-of-images)
 
 
 ## Target format of images to be archived in PARADISEC
