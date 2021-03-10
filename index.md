@@ -157,19 +157,19 @@ As you capture the images, it is important to check their quality before you get
 2. Take the Canon 700D battery pack from the charger and insert into the camera.
 3. Turn the camera on. This will also open the EOS Utility software installed on the computer.
 
->**Note:** Make sure the **AF/MF** (Auto Focus, Manual Focus) setting on the lens of the camera is set to **AF**
+     >**Note:** Make sure the **AF/MF** (Auto Focus, Manual Focus) setting on the lens of the camera is set to **AF**
 
 4. Select "camera setting/remote shooting" from the start screen. 
 
-<p align="center">
-  <img width="300" src="images/imgcap-EOS-settings-menu.jpg">
-</p>
+     <p align="center">
+       <img width="300" src="images/imgcap-EOS-settings-menu.jpg">
+     </p>
   
-  A window with the camera settings will pop up on the right side of the screen.
+    A window with the camera settings will pop up on the right side of the screen.
  
- <p align="center">
-  <img width="100" src="images/imgcap-EOS-settings.jpg">
-</p>
+    <p align="center">
+      <img width="100" src="images/imgcap-EOS-settings.jpg">
+    </p>
   
 5. Click on "Live View shoot..." as seen in the remote window above. This will open the window showing the full live view of what the camera is capturing.
 6. Click on the folder icon *(found toward the top of the remote, under the AF/MF switch)* to select a destination folder. For collected items (folder, notebook, manuscript, etc.), create a new folder for each item. You will be saving these images directly to the folder you designate- *not* to the SD card in the camera.
