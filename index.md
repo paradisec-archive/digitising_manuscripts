@@ -21,7 +21,7 @@ This page outlines PARADISEC's approach to digitising text materials. The majori
   * [EOS Utility](#eos-utility)
   * [Adobe Bridge](#adobe-bridge)
 * [Workflow for remote capture](#workflow-for-remote-capture)
-* [Workflow for non-tethered camera](#Workflow-for-non-tethered-camera)
+* [Workflow for non-tethered camera](#workflow-for-non-tethered-camera)
 * [Post-production processing of images](#post-production-processing-of-images)
 * [Additional resources](#additional-resources)
 
