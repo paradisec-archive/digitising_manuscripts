@@ -13,8 +13,8 @@ This page outlines PARADISEC's approach to digitising text materials. The majori
 * depending on your equipment choices, this can be the least expensive option, yet will still retain high quality output
 
 # Page Contents
-[Target format of images to be archived in PARADISEC](https://github.com/paradisec-archive/digitising_manuscripts/##target-format-of-images-to-be-archived-in-paradisec)<br>
-[Equipment used in this guide](https://github.com/paradisec-archive/digitising_manuscripts/blob/main/index.md#equipment-used-in-this-guide)
+[Target format of images to be archived in PARADISEC](#target-format-of-images-to-be-archived-in-paradisec)<br>
+[Equipment used in this guide](#equipment-used-in-this-guide)
  - [Cameras]()
  - [Tripods and photo stands]()
 [Software]()
