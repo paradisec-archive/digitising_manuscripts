@@ -61,14 +61,14 @@ In the end, we would only need the **.tif** version from you for the archive. Ou
 We purchased this Canon camera in 2010 and it is still fully functional in 2021. It is a compact digital camera, not a DSLR. The PowerShot allows you to capture RAW images without JPEG compression, as well as JPEGs, or both simultaneously. This model does not allow for tethering without some [hacking](https://chdk.fandom.com/wiki/CHDK_1.4.0_User_Manual) of the firmware. I have not done this hack; I have developed a very functional workflow for image capture without remote capture. Another nice feature of this camera is the articulated LCD screen. You can rotate it so that your image is visible from a seated position when the camera lens is pointed downwards on a desk or table in front of you.
 
 <p align="center">
-  <img width="500" src="images/img-cap-PowerShotG12.JPG">
+  <img width="300" src="images/img-cap-PowerShotG12.JPG">
 </p>
 
 ##### Canon EOS 700D
 This DSLR *does* allow remote capture tethering. This opens up the possibility of attaching the camera to a computer to view, focus, and capture images and store them directly on your computer, with a predertermined file-naming pattern. But you can also use the same workflow as the non-tethering compact digital camera if you do not have a computer handy at the time of digitising. This model also features an articulated LCD monitor for comfortable image viewing. Another bonus with this camera is that you can do quick zoom adjustments by manually adjusting the lens, which you cannot do with the PowerShot.
 
 <p align="center">
-  <img width="500" src="images/img-cap-EOS700D.JPG">
+  <img width="300" src="images/img-cap-EOS700D.JPG">
 </p>
 
 > **Note:** If you are going to be taking photos in a remote area with unpredictable access to a power source, you may need to pair a [portable solar pannel and power bank](https://powertraveller.com/collections/power-packs) with a [universal battery charger](https://www.digitalcameraworld.com/au/buying-guides/the-best-universal-charger-for-your-camera-batteries) to charge your camera's battery
@@ -83,21 +83,21 @@ We purchased this tripod about ten years ago, so you will likely not find the ex
 * spirit level (not necessary, but nice to have)
 
 <p align="center">
-  <img width="500" src="images/img-cap-tripod.JPG">
+  <img width="300" src="images/img-cap-tripod.JPG">
 </p>
 
 ###### Setting up the tripod with reversable centre post
 This is a great set-up beacuse it is the least expensive and the most versatile, especially if you need to photograph items in a remote location. The tricky part is getting the lighting right. Your light source (natural or artificial) could be blocked by the tripod legs and cast a shadow on your image. If your light source is in a fixed position, try moving the tripod around to minimise any shadows. You may also try to find lights that you can clip on to the legs of your tripod or onto nearby furniture. Just be mindful that too much direct, unfiltered lighting may wash out your image. I try to find a light coloured wall I can place the tripod next to and then shine the lights onto the wall. The reflected light is usually enough to provide evenly disrtributed indirecrt lighting.
 
 <p align="center">
-  <img width="500" src="images/imgcap-remote-tripod.jpg">
+  <img width="300" src="images/imgcap-remote-tripod.jpg">
 </p>
 
 ##### Velbon shelf clamp
 The Velbon tripod came with a shelf clamp accessory, but you can purchase this separately. If you do, make sure there is a tripod post that comes with the clamp if you do not already have a tripod with a removable centre post. The link in the table above directs you to a similar model to the shelf clamp that came with our Velbon Sherpa 803R.
 
 <p align="center">
-  <img width="500" src="images/img-cap-shelfclamp.JPG">
+  <img width="300" src="images/img-cap-shelfclamp.JPG">
 </p>
 
 ###### Setting up the shelf clamp
@@ -106,7 +106,7 @@ Using just the shelf clamp and the tripod's centre post is by far the simplest c
 Below are two configurations with the shelf clamp and an actual shelf (no need for bamboo this time). The image on the left is with the Canon EOS 700D tethered to a laptop for remote capture. The image on the right is the Canon PowerShot; images are being captured to the camera's SD card. 
 
 <p align="center">
-  <img width="500" src="images/imgcap-clamp-both_cameras.jpg">
+  <img width="300" src="images/imgcap-clamp-both_cameras.jpg">
 </p>
 
 >**Note:** Lighting can be directed toward a wall, not directly on the tape or notebook. This creates enough reflected light for the photos. When you review your images after your shoot and find that you would like them to be a bit lighter, you can batch edit the lighting using Adobe Bridge (discussed below). 
@@ -115,7 +115,7 @@ Below are two configurations with the shelf clamp and an actual shelf (no need f
 The Reprokid model is a compact camera stand that can accommodate small, lightweight cameras. It works really well with either of the above Canon cameras. This photo stand came with the lighting set, so one does not need to figure out where to attach any lighting. The vertical post is ruled so you can retrieve the distance of the lens to the target, or just make note of the camera placement for quick set up the next time you shoot. The base is a hard plastic grey surface so I use black matte card stock under my items. You can place a ruler or a [colour separation guide and grey scales patch](https://www.kodak.com/en/motion/page/color-separation-guides-and-gray-scales) on the base if you need this level of size or colour precision in your image capture.
 
 <p align="center">
-  <img width="500" src="images/img-cap-photo-stand.JPG">
+  <img width="300" src="images/img-cap-photo-stand.JPG">
 </p>
 
 ###### Setting up the photo stand
@@ -126,7 +126,7 @@ Having the camera attached to a stable, ruled post is great for keeping your set
 The downside to using a photo stand is the cost. Pricing for these can be a bit expensive. The Reprokid is one of Kaiser's less expensive models and it works very well for our purposes.
 
 <p align="center">
-  <img width="500" src="images/imgcap-photostand-remote3.jpg">
+  <img width="300" src="images/imgcap-photostand-remote3.jpg">
 </p>
 
 
@@ -162,13 +162,13 @@ As you capture the images, it is important to check their quality before you get
 4. Select "camera setting/remote shooting" from the start screen. 
 
 <p align="center">
-  <img width="500" src="images/imgcap-EOS-settings-menu.jpg">
+  <img width="300" src="images/imgcap-EOS-settings-menu.jpg">
 </p>
   
   A window with the camera settings will pop up on the right side of the screen.
  
  <p align="center">
-  <img width="200" src="images/imgcap-EOS-settings.jpg">
+  <img width="100" src="images/imgcap-EOS-settings.jpg">
 </p>
   
 5. Click on "Live View shoot..." as seen in the remote window above. This will open the window showing the full live view of what the camera is capturing.
