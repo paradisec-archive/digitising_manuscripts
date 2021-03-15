@@ -87,7 +87,7 @@ We purchased this tripod about ten years ago, so you will likely not find the ex
 </p>
 
 ###### Setting up the tripod with reversable centre post
-This is a great set-up beacuse it is the least expensive and the most versatile, especially if you need to photograph items in a remote location. The tricky part is getting the lighting right. Your light source (natural or artificial) could be blocked by the tripod legs and cast a shadow on your image. If your light source is in a fixed position, try moving the tripod around to minimise any shadows. You may also try to find lights that you can clip on to the legs of your tripod or onto nearby furniture. Just be mindful that too much direct, unfiltered lighting may wash out your image. I try to find a light coloured wall I can place the tripod next to and then shine the lights onto the wall. The reflected light is usually enough to provide evenly disrtributed indirecrt lighting.
+This is the least expensive and the most versatile set up, especially if you need to photograph items in a remote location. The tricky part is getting the lighting right. Your light source (natural or artificial) could be blocked by the tripod legs and cast a shadow on your image. If your light source is in a fixed position, try moving the tripod around to minimise any shadows. You may also try to find lights that you can clip on to the legs of your tripod or onto nearby furniture. Just be mindful that too much direct, unfiltered lighting may wash out your image. If you can place the tripod next to a light coloured wall and then shine the lights onto the wall. The reflected light may be enough to provide evenly disrtributed indirecrt lighting.
 
 <p align="center">
   <img width="300" src="images/imgcap-remote-tripod.jpg">
@@ -103,13 +103,12 @@ The Velbon tripod came with a shelf clamp accessory, but you can purchase this s
 ###### Setting up the shelf clamp
 Using just the shelf clamp and the tripod's centre post is by far the simplest combination, especially if there is any travel involved. The only drawback is that this requires a shelf that you can clamp to. However, if you are in a very remote location you could construct something with timber, bamboo, or even a smooth, sturdy branch. Just make sure it is strong and secure enough to hold your camera and allows you to create consistant images. 
 
-Below are two configurations with the shelf clamp and an actual shelf (no need for bamboo this time). The image on the left is with the Canon EOS 700D tethered to a laptop for remote capture. The image on the right is the Canon PowerShot; images are being captured to the camera's SD card. 
+Below are two configurations with the shelf clamp. The image on the left is with the Canon EOS 700D tethered to a laptop for remote capture. The image on the right is the Canon PowerShot; images are being captured to the camera's SD card. 
 
 <p align="center">
   <img width="300" src="images/imgcap-clamp-both_cameras.jpg">
 </p>
-
->**Note:** Lighting can be directed toward a wall, not directly on the tape or notebook. This creates enough reflected light for the photos. When you review your images after your shoot and find that you would like them to be a bit lighter, you can batch edit the lighting using Adobe Bridge (discussed below). 
+ 
 
 ##### Kaiser Reprokid Photo Stand
 The Reprokid model is a compact camera stand that can accommodate small, lightweight cameras. It works really well with either of the above Canon cameras. This photo stand came with the lighting set, so one does not need to figure out where to attach any lighting. The vertical post is ruled so you can retrieve the distance of the lens to the target, or just make note of the camera placement for quick set up the next time you shoot. The base is a hard plastic grey surface so I use black matte card stock under my items. You can place a ruler or a [colour separation guide and grey scales patch](https://www.kodak.com/en/motion/page/color-separation-guides-and-gray-scales) on the base if you need this level of size or colour precision in your image capture.
@@ -123,7 +122,7 @@ Photo stands have many benefits for image capture. This particular model has the
 
 Having the camera attached to a stable, ruled post is great for keeping your set-up consistant from day to day. If you need to shift things around in your space, the entire set-up can be moved as is. Having a solid base on which to put your notebooks or documents is also a fine feature. The base on this model is a bit small. If you need to build up the base to create an expanded, level for larger notebooks to fit, perhaps place some books you may have nearby around the photostand's base to create an enlarged, even platform. Or get a piece of plywood and clamp it to the photo stand base.
 
-The downside to using a photo stand is the cost. Pricing for these can be a bit expensive. The Reprokid is one of Kaiser's less expensive models and it works very well for our purposes.
+The downside to using a photo stand is the cost. Pricing for these can be expensive. The Reprokid is one of Kaiser's less expensive models and it works very well for our purposes.
 
 <p align="center">
   <img width="300" src="images/imgcap-photostand-remote3.jpg">
