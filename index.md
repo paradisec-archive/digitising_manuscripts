@@ -18,11 +18,11 @@ This page outlines PARADISEC's approach to digitising text materials. The majori
   * [Cameras](#cameras)
   * [Tripods and photo stands](#tripods-and-photo-stands)
 * [Software](#software)
-  * [EOS Utility](#eos-utility)
-  * [Adobe Bridge](#adobe-bridge)
+  * [About EOS Utility](#eos-utility)
+  * [About Adobe Bridge](#adobe-bridge)
 * [Workflow for remote capture](#workflow-for-remote-capture)
 * [Workflow for non-tethered camera](#workflow-for-non-tethered-camera)
-* [Post-production processing of images](#post-production-processing-of-images)
+* [Post-production processing with Adobe Bridge](#post-production-processing-of-images)
 * [Additional resources](#additional-resources)
 
 
