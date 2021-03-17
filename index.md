@@ -61,7 +61,7 @@ In the end, we would only need the **.tif** version from you for the archive. Ou
 #### Cameras
 
 ##### Canon PowerShot G12
-We purchased this Canon camera in 2010 and it is still fully functional in 2021. It is a compact digital camera, not a DSLR. The PowerShot allows you to capture RAW images without JPEG compression, as well as JPEGs, or both simultaneously. This model does not allow for tethering without some [hacking](https://chdk.fandom.com/wiki/CHDK_1.4.0_User_Manual) of the firmware. I have not done this hack; I have developed a very functional workflow for image capture without remote capture. Another nice feature of this camera is the articulated LCD screen. You can rotate it so that your image is visible from a seated position when the camera lens is pointed downwards on a desk or table in front of you.
+We purchased this Canon camera in 2010 and it is still fully functional in 2021. It is a compact digital camera, not a DSLR. The PowerShot allows you to capture RAW images without JPEG compression, as well as JPEGs, or both simultaneously. This model does not allow for tethering without some [hacking](https://chdk.fandom.com/wiki/CHDK_1.4.0_User_Manual) of the firmware. I have not done this hack; See below for a fully functional workflow for image capture without remote capture. This camera features an articulated LCD screen. This means you can rotate it so that your image is visible from a seated position when the camera lens is pointed downwards on a desk or table in front of you.
 
 <p align="center">
   <img width="300" src="images/img-cap-PowerShotG12.JPG">
@@ -73,8 +73,6 @@ This DSLR *does* allow remote capture tethering. This opens up the possibility o
 <p align="center">
   <img width="300" src="images/img-cap-EOS700D.JPG">
 </p>
-
-> **Note:** If you are going to be taking photos in a remote area with unpredictable access to a power source, you may need to pair a [portable solar pannel and power bank](https://powertraveller.com/collections/power-packs) with a [universal battery charger](https://www.digitalcameraworld.com/au/buying-guides/the-best-universal-charger-for-your-camera-batteries) to charge your camera's battery
 
 
 #### Tripods and photo stands
