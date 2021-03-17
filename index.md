@@ -61,7 +61,7 @@ In the end, we would only need the **.tif** version from you for the archive. Ou
 #### Cameras
 
 ##### Canon PowerShot G12
-We purchased this Canon camera in 2010 and it is still fully functional in 2021. It is a compact digital camera, not a DSLR. The PowerShot allows you to capture RAW images without JPEG compression, as well as JPEGs, or both simultaneously. This model does not allow for tethering without some [hacking](https://chdk.fandom.com/wiki/CHDK_1.4.0_User_Manual) of the firmware. I have not done this hack; See below for a fully functional workflow for image capture without remote capture. This camera features an articulated LCD screen. This means you can rotate it so that your image is visible from a seated position when the camera lens is pointed downwards on a desk or table in front of you.
+This Canon camera was purchased in 2010 and it is still fully functional in 2021. It is a compact digital camera, not a DSLR. The PowerShot allows you to capture RAW images without JPEG compression, as well as JPEGs, or both simultaneously. This model does not allow for tethering without some [hacking](https://chdk.fandom.com/wiki/CHDK_1.4.0_User_Manual) of the firmware. I have not done this hack; See below for a simple workflow for image capture without tethering your camera to a computer. The PowerShot G12 features an articulated LCD screen. This means you can rotate it so that your target image is visible from a seated position when the camera lens is pointed downwards on a desk or table in front of you.
 
 <p align="center">
   <img width="300" src="images/img-cap-PowerShotG12.JPG">
@@ -78,7 +78,7 @@ This DSLR *does* allow remote capture tethering. This opens up the possibility o
 #### Tripods and photo stands
 
 ##### Velbon Sherpa 803R
-We purchased this tripod about ten years ago, so you will likely not find the exact model. But the important features on this tripod are the following:
+This tripod was purchased about ten years ago, so it is unlikely that you would find the same model; however, the important features on this tripod are the following:
 * reversable centre post (necessary for this workflow)
 * relatively compact and lightweight
 * spirit level (not necessary, but nice to have)
@@ -88,14 +88,14 @@ We purchased this tripod about ten years ago, so you will likely not find the ex
 </p>
 
 ###### Setting up the tripod with reversable centre post
-This is the least expensive and the most versatile set up, especially if you need to photograph items in a remote location. The tricky part is getting the lighting right. Your light source (natural or artificial) could be blocked by the tripod legs and cast a shadow on your image. If your light source is in a fixed position, try moving the tripod around to minimise any shadows. You may also try to find lights that you can clip on to the legs of your tripod or onto nearby furniture. Just be mindful that too much direct, unfiltered lighting may wash out your image. If you can place the tripod next to a light coloured wall and then shine the lights onto the wall. The reflected light may be enough to provide evenly disrtributed indirecrt lighting.
+This is the least expensive and most versatile setup, especially if you need to photograph items in a remote location. The tricky part is getting the lighting right. Your light source (natural or artificial) could be blocked by the tripod legs and cast a shadow on your image. If your light source is in a fixed position, try moving the tripod around to minimise any shadows. You may also try to find lights that you can clip on to the legs of your tripod or onto nearby furniture. Just be mindful that too much direct, unfiltered lighting may wash out your image. If you can place the tripod next to a light coloured wall and then shine the lights onto the wall. The reflected light may be enough to provide evenly disrtributed indirecrt lighting.
 
 <p align="center">
   <img width="300" src="images/imgcap-remote-tripod.jpg">
 </p>
 
 ##### Velbon shelf clamp
-The Velbon tripod came with a shelf clamp accessory, but you can purchase this separately. If you do, make sure there is a tripod post that comes with the clamp if you do not already have a tripod with a removable centre post. The link in the table above directs you to a similar model to the shelf clamp that came with our Velbon Sherpa 803R.
+The Velbon tripod mentioned above came with a shelf clamp, but you can purchase a clamp separately. If you do, make sure there is a tripod post that comes with the clamp if you do not already have a tripod with a removable centre post. The link in the table above directs you to a similar model to the shelf clamp that came with the Velbon Sherpa 803R.
 
 <p align="center">
   <img width="300" src="images/img-cap-shelfclamp.JPG">
