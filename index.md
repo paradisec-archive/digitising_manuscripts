@@ -17,7 +17,7 @@ This page outlines PARADISEC's approach to digitising text materials. The majori
 * [About the equipment used in this guide](#equipment-used-in-this-guide)
   * [Cameras](#cameras)
   * [Tripods and photo stands](#tripods-and-photo-stands)
-* [Suggested set-up for using a **tripod**](#Setting up the tripod with reversable centre post)
+* [Suggested setup for using a tripod](#Setting up the tripod with reversable centre post)
 * [Suggested set-up for using a **shelf clamp**](#Setting up the shelf clamp)
 * [Suggested set-up for using a **photostand**](#Setting up the photo stand)
 * [Software](#software)
