@@ -155,7 +155,7 @@ As you capture the images, it is important to check their quality before you get
 
 1. Start the computer and use your ANU UniID to log on
 2. Take the Canon 700D battery pack from the charger and insert into the camera.
-3. Turn the camera on. This will also open the EOS Utility software installed on the computer.
+3. Once the computer is fully booted, turn the camera on. This will also open the EOS Utility software installed on the computer.
 
      >**Note:** Make sure the **AF/MF** (Auto Focus, Manual Focus) setting on the lens of the camera is set to **AF**
 
