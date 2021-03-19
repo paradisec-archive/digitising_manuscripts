@@ -157,7 +157,7 @@ As you capture the images, it is important to check their quality before you get
 2. Take the Canon 700D battery pack from the charger and insert into the camera.
 3. Once the computer is fully booted, turn the camera on. This will also open the EOS Utility software installed on the computer.
 
-     >**Note:** Make sure the **AF/MF** (Auto Focus, Manual Focus) setting on the lens of the camera is set to **AF**
+     >**Note:** Make sure the **AF/MF** (Auto Focus, Manual Focus) setting on the lens of the camera is set to **AF** and that the camera mode on the top of the camera is set to **TV**
 
 4. Select "camera setting/remote shooting" from the start screen. 
 
@@ -184,19 +184,19 @@ As you capture the images, it is important to check their quality before you get
       <img width="300" src="images/img-cap-blocking.jpg">
     </p>
 
-9. Set lighting by double-clicking on the relevant icon in the settings window. The lamp symbol (indicating tungsten lighting) should show the light bulb. This is the best light setting for our studio.
+9. Set lighting by double-clicking on the relevant icon in the settings window. The lamp symbol (indicating tungsten lighting) is the best light setting for our studio.
 
     <p align="center">
      <img width="200" src="images/imgcap-EOS-settings-light.jpg">
     </p>
 
-    The ISO should be 400 for our studio lighting.
+    The ISO should be 200 for our studio lighting, the shutter speed should be 1/125.
 
     <p align="center">
      <img width="200" src="images/imgcap-EOS-settings-ISO.jpg">
     </p>
 
-    If necessary, make finer adjustments to the image lightness/darkness by moving this digital slider either toward -1 or +1.
+    If necessary, make finer adjustments to the **exposure level** (adjusts image lightness/darkness) by moving this digital slider either toward -1 or +1.
 
     <p align="center">
      <img width="200" src="images/imgcap-EOS-settings-more-lighting.jpg">
