@@ -190,10 +190,10 @@ As you capture the images, it is important to check their quality before you get
      <img width="200" src="images/imgcap-EOS-settings-light.jpg">
     </p>
 
-    The ISO should be 200 for our studio lighting, the shutter speed should be 1/125.
+    The shutter speed should be 1/125 and the ISO should be 200 for our studio lighting.
 
     <p align="center">
-     <img width="200" src="images/imgcap-EOS-settings-ISO.jpg">
+     <img width="200" src="images/imgcap-EOS-settings-ISO-Fstop.jpg">
     </p>
 
     If necessary, make finer adjustments to the **exposure level** (adjusts image lightness/darkness) by moving this digital slider either toward -1 or +1.
