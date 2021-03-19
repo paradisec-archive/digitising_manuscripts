@@ -212,7 +212,9 @@ As you capture the images, it is important to check their quality before you get
 
 ### Post-production processing of images
 
-***A workflow for using Adobe Bridge for batch processing is currently in progress (03-03-2021)***
+*The following instructions are based on Adobe Bridge CC 2021. Many of the functions are similar to the previous versions, with slight adjustments to the interface and workspaces.*
+
+Open Adobe Bridge. If you are affiliated with ANU, our workstation allows you to access this program using your university login. Otherwise, you can learn more about accessing Bridge for free here: [Adobe Bridge](https://www.adobe.com/au/products/bridge.html?mv=affiliate&mv2=red)
 
 
 
