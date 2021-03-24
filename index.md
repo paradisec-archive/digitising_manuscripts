@@ -203,6 +203,11 @@ As you capture the images, it is important to check their quality before you get
     </p>
 
 10. When the live view window shows what you would like to capture, either click on the round, black button in the top right corner in the remote window or press the space bar. A window will pop up to show the picture taken. Repeat this step for each page of your item.
+
+<p align="center">
+     <img width="200" src="images/imgcap-remote-viewer.jpg">
+    </p>
+
 11. When finishing a session for the day, wait until the last image has loaded and then switch the camera off.
 12. Remove the battery and put into the charger to charge for the next session.
 
