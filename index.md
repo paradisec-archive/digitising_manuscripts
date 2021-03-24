@@ -221,7 +221,7 @@ As you capture the images, it is important to check their quality before you get
 
 If you are affiliated with ANU, our workstation allows you to access this program using your university login. Otherwise, you can learn more about accessing Bridge for free here: [Adobe Bridge](https://www.adobe.com/au/products/bridge.html?mv=affiliate&mv2=red)
 
-Once you have finished creating images of your manuscript or field notes, open Adobe Bridge, navigate to the folder containing your notebook images within Bridge. You will be making small adjustments to the colour or lighting if necessary; this will be best if you restrict your editing to one notebook at a time as the colour of the paper mat differ from notebook to notebook. If you had to reshoot a page, or you accidentally shot a page twice you will need to delete an image and rename your files; this also will be best to do one notebook at a time. 
+Once you have finished creating images of your manuscript or field notes, open Adobe Bridge and navigate to the folder containing your notebook images within Bridge. You will be making small batch adjustments to the colour or lighting if necessary; this will be best if you restrict your editing to one notebook at a time as the colour of the paper may differ from notebook to notebook. If you had to reshoot a page, or you accidentally shot a page twice you will need to delete an image and rename your files; this also will be best to do one notebook at a time. 
 
 ---
 
