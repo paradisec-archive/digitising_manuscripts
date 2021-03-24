@@ -107,7 +107,7 @@ Using just the shelf clamp and the tripod's centre post is by far the simplest c
 Below are two configurations with the shelf clamp. The image on the left is with the Canon EOS 700D tethered to a laptop for remote capture. The image on the right is the Canon PowerShot; images are being captured to the camera's SD card. 
 
 <p align="center">
-  <img width="300" src="images/imgcap-clamp-both_cameras.jpg">
+  <img width="400" src="images/imgcap-clamp-both_cameras.jpg">
 </p>
  
 
