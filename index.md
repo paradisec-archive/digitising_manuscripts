@@ -12,17 +12,15 @@ This page outlines PARADISEC's approach to digitising text materials. The majori
 * the equipment is portable and can easily be set up in most environments, including remote field locations with tricky power options
 * depending on your equipment choices, this can be the least expensive option, yet will still retain high quality output
 
-### Page Contents
+### Key Topics
 * [Target format of images to be archived in PARADISEC](#target-format-of-images-to-be-archived-in-paradisec)
-* [About the equipment used in this guide](#equipment-used-in-this-guide)
-  * [Cameras](#cameras)
-  * [Tripods and photo stands](#tripods-and-photo-stands)
+* [Cameras used in this workflow](#cameras)
+* [Tripods and photo stands used in this workflow](#tripods-and-photo-stands)
 * [Suggested setup for using a **tripod**](#Setting-up-the-tripod-with-reversable-centre-post)
 * [Suggested setup for using a **shelf clamp**](#Setting-up-the-shelf-clamp)
-* [Suggested setup for using a **photostand**](#Setting-up-the-photo-stand)
-* [Software](#software)
-  * [About EOS Utility](#eos-utility)
-  * [About Adobe Bridge](#adobe-bridge)
+* [Suggested setup for using a **photostand**](#Setting-up-the-photo-stand) 
+* [About EOS Utility software](#eos-utility)
+* [About Adobe Bridge software](#adobe-bridge)
 * [Workflow for remote capture using EOS Utility](#workflow-for-remote-capture)
 * [Post-production processing with Adobe Bridge](#post-production-processing-of-images)
 * [Additional resources](#additional-resources)
@@ -225,8 +223,31 @@ Once you have finished creating images, open Adobe Bridge and navigate to the fo
      <img width="500" src="images/img-Bridge-RAW.jpg">
     </p>
 
+Once in the Camera Raw window, all the editing functions are in the right panel. Image below presents the colour and lighting editing options:
 
+<p align="center">
+     <img width="500" src="images/img-Bridge-batch_light-colour_adjustments.JPG">
+    </p>
 
+And in this image you can see the size and image orientation options, including cropping:
+
+<p align="center">
+     <img width="500" src="images/img-Bridge-batch_cropping.JPG">
+    </p>
+
+Once you are happy with your edits, you can batch export by selecting the small icon with the downward arrow, if you are wanting to export multiple files, select the one near the other editing options; otherwise you can export a single image by selecting this arrow in the uper right corner of the image thumbnail. 
+
+<p align="center">
+     <img width="200" src="images/img-Bridge-batch_cropping.JPG">
+    </p>
+    
+Your saving options for archiving with PARADISEC should be the following:
+
+<p align="center">
+     <img width="400" src="images/img-Bridge-export-options.JPG">
+    </p>
+
+ 
 ---
 
 ### Additional resources
