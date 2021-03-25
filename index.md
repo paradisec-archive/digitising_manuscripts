@@ -222,13 +222,13 @@ Once you have finished creating images, open Adobe Bridge and navigate to the fo
      <img width="500" src="images/img-Bridge-RAW.jpg">
     </p>
 
-Once in the Camera Raw window, all the editing functions are in the right panel. Image below presents the colour and lighting editing options:
+Once in the Camera Raw window, all the editing functions are in the right panel. Image below presents the colour and lighting editing options. You can edit a single image, or multiple images at once:
 
 <p align="center">
      <img width="500" src="images/img-Bridge-batch_light-colour_adjustments.JPG">
     </p>
 
-And in this image you can see the size and image orientation options, including cropping:
+And in this image you can see the size and image orientation options, including cropping. Again, this can be done for a single image, or multiple images at once:
 
 <p align="center">
      <img width="500" src="images/img-Bridge-batch_cropping.JPG">
