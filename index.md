@@ -235,13 +235,13 @@ And in this image you can see the size and image orientation options, including 
      <img width="500" src="images/img-Bridge-batch_cropping.JPG">
     </p>
 
-Once you are happy with your edits, you can batch export by selecting the small icon with the downward arrow, if you are wanting to export multiple files, select the one near the other editing options; otherwise you can export a single image by selecting this arrow in the uper right corner of the image thumbnail. 
+Once you are happy with your edits, you can batch export by selecting the small export icon *(circled in image below)*, if you are wanting to export multiple files, select select all images you want to export, then press the export icon near the other editing options located in the right panel; otherwise you can export a single image by selecting the icon in the uper right corner of the image thumbnail. 
 
 <p align="center">
      <img width="200" src="images/img-Bridge-export_button.png">
     </p>
     
-Your saving options for archiving with PARADISEC should be the following:
+Your export settings for archiving with PARADISEC should be the following:
 
 <p align="center">
      <img width="400" src="images/img-Bridge-export-options.JPG">
