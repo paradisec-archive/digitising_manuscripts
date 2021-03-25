@@ -217,9 +217,9 @@ As you capture the images, it is important to check their quality before you get
 
 > **Note:** If you are affiliated with ANU, our workstation allows you to access this program using your university login. Otherwise, you can learn more about accessing Bridge for free here: [Adobe Bridge](https://www.adobe.com/au/products/bridge.html?mv=affiliate&mv2=red)
 
-You will be making small batch adjustments to the colour or lighting if necessary; this will be best if you restrict your editing to one notebook at a time as the colour of the paper may differ from notebook to notebook. If you had to reshoot a page, or you accidentally shot a page twice you will need to delete an image and rename your files; this also will be best to do one notebook at a time. 
+You will be making small batch adjustments to the colour or lighting if necessary; this will be best if you restrict your editing to one notebook at a time as the colour of the paper may differ from notebook to notebook. Also, if you had to reshoot a page, or you accidentally shot a page twice, you will need to delete an image and rename your files.
 
-Once you have finished creating images of your manuscript or field notes, open Adobe Bridge and navigate to the folder containing your notebook images within Bridge. Highlight the images you want to edit, then go up to the top menu and select the camera lens icon; this is to open up the Camera Raw function within Bridge. This is where we will make our edits and create tifs.
+Once you have finished creating images, open Adobe Bridge and navigate to the folder containing your notebook images within Bridge. Highlight the images you want to edit, then go up to the top menu and select the camera lens icon; this will open the Camera Raw function within Bridge, where we will make our edits and create tifs.
 
 <p align="center">
      <img width="300" src="images/img-Bridge-RAW.jpg">
