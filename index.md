@@ -222,7 +222,7 @@ You will be making small batch adjustments to the colour or lighting if necessar
 Once you have finished creating images, open Adobe Bridge and navigate to the folder containing your notebook images within Bridge. Highlight the images you want to edit, then go up to the top menu and select the camera lens icon; this will open the Camera Raw function within Bridge, where we will make our edits and create tifs.
 
 <p align="center">
-     <img width="300" src="images/img-Bridge-RAW.jpg">
+     <img width="400" src="images/img-Bridge-RAW.jpg">
     </p>
 
 
