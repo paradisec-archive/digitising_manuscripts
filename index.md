@@ -24,7 +24,6 @@ This page outlines PARADISEC's approach to digitising text materials. The majori
   * [About EOS Utility](#eos-utility)
   * [About Adobe Bridge](#adobe-bridge)
 * [Workflow for remote capture using EOS Utility](#workflow-for-remote-capture)
-* [Workflow for non-tethered camera](#workflow-for-non-tethered-camera)
 * [Post-production processing with Adobe Bridge](#post-production-processing-of-images)
 * [Additional resources](#additional-resources)
 
@@ -211,17 +210,22 @@ As you capture the images, it is important to check their quality before you get
 11. When finishing a session for the day, wait until the last image has loaded and then switch the camera off.
 12. Remove the battery and put into the charger to charge for the next session.
 
-### Workflow for non-tethered camera
-
-***A workflow for using using a non-tethered camera for image capture is currently in progress (03-03-2021)***
 
 ### Post-production processing of images
 
 *The following instructions are based on Adobe Bridge CC 2021. Many of the functions are similar to the previous versions, with slight adjustments to the interface and workspaces.*
 
-If you are affiliated with ANU, our workstation allows you to access this program using your university login. Otherwise, you can learn more about accessing Bridge for free here: [Adobe Bridge](https://www.adobe.com/au/products/bridge.html?mv=affiliate&mv2=red)
+> **Note:** If you are affiliated with ANU, our workstation allows you to access this program using your university login. Otherwise, you can learn more about accessing Bridge for free here: [Adobe Bridge](https://www.adobe.com/au/products/bridge.html?mv=affiliate&mv2=red)
 
-Once you have finished creating images of your manuscript or field notes, open Adobe Bridge and navigate to the folder containing your notebook images within Bridge. You will be making small batch adjustments to the colour or lighting if necessary; this will be best if you restrict your editing to one notebook at a time as the colour of the paper may differ from notebook to notebook. If you had to reshoot a page, or you accidentally shot a page twice you will need to delete an image and rename your files; this also will be best to do one notebook at a time. 
+You will be making small batch adjustments to the colour or lighting if necessary; this will be best if you restrict your editing to one notebook at a time as the colour of the paper may differ from notebook to notebook. If you had to reshoot a page, or you accidentally shot a page twice you will need to delete an image and rename your files; this also will be best to do one notebook at a time. 
+
+Once you have finished creating images of your manuscript or field notes, open Adobe Bridge and navigate to the folder containing your notebook images within Bridge. Highlight the images you want to edit, then go up to the top menu and select the camera lens icon; this is to open up the Camera Raw function within Bridge. This is where we will make our edits and create tifs.
+
+<p align="center">
+     <img width="300" src="images/img-Bridge-RAW.jpg">
+    </p>
+
+
 
 ---
 
