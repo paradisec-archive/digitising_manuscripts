@@ -204,7 +204,7 @@ As you capture the images, it is important to check their quality before you get
 10. When the live view window shows what you would like to capture, either click on the round, black button in the top right corner in the remote window, or the small black button in the lower left side of the live view window, or press the space bar. Repeat this step for each page of your item.
 
     <p align="center">
-     <img width="400" src="images/imgcap-remote-viewer.jpg">
+     <img width="500" src="images/imgcap-remote-viewer.jpg">
     </p>
 
 11. When finishing a session for the day, wait until the last image has loaded and then switch the camera off.
@@ -222,7 +222,7 @@ You will be making small batch adjustments to the colour or lighting if necessar
 Once you have finished creating images, open Adobe Bridge and navigate to the folder containing your notebook images within Bridge. Highlight the images you want to edit, then go up to the top menu and select the camera lens icon; this will open the Camera Raw function within Bridge, where we will make our edits and create tifs.
 
 <p align="center">
-     <img width="400" src="images/img-Bridge-RAW.jpg">
+     <img width="500" src="images/img-Bridge-RAW.jpg">
     </p>
 
 
