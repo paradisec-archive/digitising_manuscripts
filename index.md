@@ -174,7 +174,7 @@ As you capture the images, it is important to check their quality before you get
     * Click "Customize..." to customize the name. Create file names that start with a collection ID, followed by a hyphen, then the item number (what you have come up with as an ID for your notebook/folder/manuscript), and then select sequential numbering of the images, e.g. DT1-04-<Sequential Number> 
     * Set "Number of Digits" to 3, This will accommodate items with 999 pages. If there are under one hundred pages, use 2 digits. If over a thousand pages, use 4 digits. This will help with the ordering in PARADISEC collections and is just good practice.
     * Set "Start" to 1 at when you begin photographing each new item (otherwise it will just continue counting from whatever was shot in the previous session)
-8. Fix the position the item using the Live view window. Use the black card stock paper provided as a background and to cover the page that is not the target page.
+8. Fix the position of the item using the **Live View** window. Use the black card stock paper provided as a background and to cover the page that is not the target page.
 
     <p align="center">
       <img width="300" src="images/img-cap-blocking.jpg">
