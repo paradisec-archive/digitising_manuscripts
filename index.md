@@ -144,7 +144,6 @@ If you are planning to use a Canon camera that is compatible with the EOS Utilit
 ***For image preview and processing, use Adobe Bridge***<br> 
 As you capture the images, it is important to check their quality before you get too far into your task. But even at the end of the day, when if you have collected hundreds of photos, you may realise that they would be better cropped, or that the lighting was too warm and you would like to cool down the colours, you can use Adobe Bridge to do this as a batch process. Adobe Bridge is available for free. You do not need to pay for it, but you do need to sign up with Adobe. [Navigate to the Adobe Bridge download page](https://www.adobe.com/au/products/bridge.html).
 
-> **Note:** If you are capturing raw images (.CR2 files), you cannot edit them using Bridge alone; you need to have photoshop. If you are using the EOS Utility software, a tool called Digital Photo Professional (DPP) is installed along with the remote capture tool. You can view and edit your .CR2 files and create .JPGs or .TIFs from there.
 
 ### Workflow for remote capture
 
