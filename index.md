@@ -171,10 +171,10 @@ As you capture the images, it is important to check their quality before you get
 6. Click on the folder icon *(found toward the top of the remote, under the AF/MF switch)* to select a destination folder. For collected items (folder, notebook, manuscript, etc.), create a new folder for each item. You will be saving these images directly to the folder you designate- *not* to the SD card in the camera.
 7. To set up the file-naming for the images:
     * Click on the folder icon and select "File Names" in the preference window
-    * Click "Customize..." to customize the name. Create file names that start with a collection ID, followed by a hyphen, then the item number (what you have come up with as an ID for your notebook/folder/manuscript), and then select sequential numbering of the images, e.g. DT1-04-<Sequential Number> 
-    * Set "Number of Digits" to 3, This will accommodate items with 999 pages. If there are under one hundred pages, use 2 digits. If over a thousand pages, use 4 digits. This will help with the ordering in PARADISEC collections and is just good practice.
+    * Click "Customize..." to customize the name. Create file names that start with a collection ID, followed by a hyphen, then the item number (what you have come up with as an ID for your notebook/folder/manuscript), and then select sequential numbering of the images, e.g. DT1-04-<Sequential Number>, Close the window. 
+    * In the menu window, set "Number of Digits" to 3, This will accommodate items with 999 pages. If there are under one hundred pages, use 2 digits. If over a thousand pages, use 4 digits. This will help with the ordering in PARADISEC collections and is just good practice.
     * Set "Start" to 1 at when you begin photographing each new item (otherwise it will just continue counting from whatever was shot in the previous session)
-8. Fix the position of the item using the **Live View** window. Use the black card stock paper provided as a background and to cover the page that is not the target page.
+8. Fix the position of the item using the **Live View** window. Use the black card stock paper provided as a background and to cover the page that is not the target page. Switch on the attached lamps on the stand.
 
     <p align="center">
       <img width="300" src="images/img-cap-blocking.jpg">
@@ -198,7 +198,7 @@ As you capture the images, it is important to check their quality before you get
      <img width="200" src="images/imgcap-EOS-settings-more-lighting.jpg">
     </p>
 
-10. When the live view window shows what you would like to capture, either click on the round, black button in the top right corner in the remote window, or the small black button in the lower left side of the live view window, or press the space bar. Repeat this step for each page of your item.
+10. When the live view window shows what you would like to capture, either click on the round, black button in the top right corner in the remote window, or the small black button in the lower left side of the live view window, or press the space bar. Repeat this step for each page of your item. If you are capturing more than one item/notebook, then restart your workflow from step 6. Do not forget to reset your image naming and counting.
 
     <p align="center">
      <img width="500" src="images/imgcap-remote-viewer.jpg">
